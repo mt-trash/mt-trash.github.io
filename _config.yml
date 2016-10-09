@@ -1,6 +1,7 @@
 name: Empty Trash
 markdown: kramdown
 url: https://mt-trash.github.io
+baseurl: /
 paginate: 40
 permalink: pretty
 gems:
