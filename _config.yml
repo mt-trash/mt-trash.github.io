@@ -2,7 +2,7 @@ name: Empty Trash
 markdown: kramdown
 url: https://mt-trash.github.io
 baseurl: /
-paginate: 40
+paginate: 5
 permalink: pretty
 gems:
   - jekyll-sitemap
