@@ -9,18 +9,3 @@ title: Empty Trash
     {% endfor %}
   </div>
 </div>
-<div class="row">
-  <div class="two-thirds column">
-  {% if paginator.previous_page %}
-    <h5 class="u-pull-left"><a href="{{ paginator.previous_page_path }}">Previous</a></h5>
-  {% else %}
-    <h5 class="u-pull-left"><span>Previous</span></h5>
-  {% endif %}
-  <span>Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <h5 class="u-pull-right"><a href="{{ paginator.next_page_path }}">Next</a></h5>
-  {% else %}
-    <h5 class="u-pull-right"><span>Next</span></h5>
-  {% endif %}
-  </div>
-</div>
