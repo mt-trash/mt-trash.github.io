@@ -11,17 +11,18 @@ title: Empty Trash
   </div>
 </div>
 <div class="row">
-  <div class="two columns" style="margin-bottom: 5%">
+  <div class="two columns" style="margin-bottom: 1%">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Previous</a>
+    <a href="{{ paginator.previous_page_path }}">Previous page</a>
   {% else %}
-    <span>Previous</span>
+    <span>Previous page</span>
   {% endif %}
   </div>
-  <div class="two columns" style="margin-bottom: 5%">
+  <div class="two columns" style="margin-bottom: 1%">
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next</a>
+    <a href="{{ paginator.next_page_path }}">Next page</a>
   {% else %}
-    <span>Next</span>
+    <span>Next page</span>
   {% endif %}
+    <hr>
 </div>
