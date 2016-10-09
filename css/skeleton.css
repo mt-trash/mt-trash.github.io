@@ -382,6 +382,14 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 
+/* Footnotes
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.footnote {
+    text-decoration: underline; }
+.reversefootnote {
+    text-decoration: underline; }
+
+
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
