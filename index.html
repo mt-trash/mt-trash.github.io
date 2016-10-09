@@ -5,7 +5,8 @@ title: Empty Trash
 <div class="row">
   <div class="ten columns" style="margin-top: 15%">
     {% for post in paginator.posts %}
-      <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <h6><i>{{ post.date | date_to_string }}</i></h6>{{ post.excerpt }}<hr>
+      <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
+      <p><i>{{ post.date | date_to_string }}</i></p>{{ post.excerpt }}<hr>
     {% endfor %}
   </div>
 </div>
