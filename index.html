@@ -4,7 +4,7 @@ title: Empty Trash
 ---
 <div class="row">
   <div class="ten columns" style="margin-top: 15%">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
 	  <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <h6><i>(<span>{{ post.date | date_to_string }}</span>)</i></h6>{{ post.excerpt }}<hr>
       {% endfor %}
   </div>
