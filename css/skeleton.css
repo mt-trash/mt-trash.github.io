@@ -161,6 +161,11 @@ a {
   color: #0D47A1; }
 a:hover {
   color: #1565C0; }
+a.footnote {
+  font-weight: 400; }
+a.reversefootnote {
+  font-weight: 400; }
+
 
 
 /* Buttons
