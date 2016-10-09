@@ -162,7 +162,7 @@ a {
 a:hover {
   color: #1565C0; }
 a.footnote {
-  font-weight: 700; }
+  font-weight: 700; font-size: 1.5rem; }
 
 
 /* Buttons
