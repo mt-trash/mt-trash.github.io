@@ -1,5 +1,6 @@
 name: Empty Trash
 markdown: kramdown
 paginate: 40
+permalink: pretty
 gems:
   - jekyll-sitemap
