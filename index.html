@@ -4,10 +4,8 @@ title: Empty Trash
 ---
 <div class="row">
   <div class="two-thirds column" style="margin-top: 15%">
-    <ul>
       {% for post in site.posts %}
-	    <li><h2><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2></li>
+	    <h3><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3><hr>
       {% endfor %}
-    </ul>
   </div>
 </div>
