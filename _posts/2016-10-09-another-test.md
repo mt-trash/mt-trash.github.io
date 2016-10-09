@@ -1,6 +1,6 @@
 ---
 layout: post
-title: another placeholder
+title: "another placeholder"
 date: 2016-10-09
 ---
 
