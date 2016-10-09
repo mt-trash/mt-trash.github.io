@@ -15,14 +15,14 @@ title: Empty Trash
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">Previous page</a>
   {% else %}
-    <span>Previous page</span>
+    <span class="inactive">Previous page</span>
   {% endif %}
   </div>
   <div class="two columns" style="margin-bottom: 5%">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}">Next page</a>
   {% else %}
-    <span>Next page</span>
+    <span class="inactive">Next page</span>
   {% endif %}
   </div>
   <div class="two columns" style="margin-bottom: 5%">
