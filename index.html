@@ -3,7 +3,7 @@ layout: default
 title: Empty Trash
 ---
 <div class="row">
-  <div class="ten columns" style="margin-top: 5%">
+  <div class="ten columns" style="margin-top: 10%">
     {% for post in paginator.posts %}
       <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
       <p><i>{{ post.date | date_to_string }}</i></p>{{ post.excerpt }}<hr>
