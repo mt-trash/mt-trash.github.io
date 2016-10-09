@@ -13,16 +13,16 @@ title: Empty Trash
 <div class="row">
   <div class="two columns" style="margin-bottom: 5%">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Previous page</a>
+    <a href="{{ paginator.previous_page_path }}">Newer</a>
   {% else %}
-    <span class="inactive">Previous page</span>
+    <span class="inactive">Newer</span>
   {% endif %}
   </div>
   <div class="two columns" style="margin-bottom: 5%">
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next page</a>
+    <a href="{{ paginator.next_page_path }}">Older</a>
   {% else %}
-    <span class="inactive">Next page</span>
+    <span class="inactive">Older</span>
   {% endif %}
   </div>
   <div class="two columns" style="margin-bottom: 5%">
