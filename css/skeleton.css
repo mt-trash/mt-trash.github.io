@@ -377,6 +377,9 @@ form {
 
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+img {
+  max-width: 100%;
+  box-sizing: border-box; }
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
