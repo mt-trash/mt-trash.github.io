@@ -1,7 +1,6 @@
 name: Empty Trash
 markdown: kramdown
 url: http://empty-trash.com
-excerpt_separator: <!--more-->
 baseurl: /
 paginate: 5
 permalink: pretty
