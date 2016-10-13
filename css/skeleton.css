@@ -34,8 +34,7 @@
   max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
-  box-sizing: border-box; 
-  background-color: #FFFFFF; }
+  box-sizing: border-box; }
 .column,
 .columns {
   width: 100%;
@@ -120,8 +119,7 @@
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
-  font-size: 62.5%; 
-  background-color: #000000; }
+  font-size: 62.5%; }
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
