@@ -4,6 +4,6 @@ url: http://empty-trash.com
 baseurl: /
 paginate: 5
 permalink: pretty
-excerpt_separator: <!–break–>
+excerpt_separator: ///////
 gems:
   - jekyll-sitemap
