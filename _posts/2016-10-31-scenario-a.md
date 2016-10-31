@@ -4,9 +4,7 @@ title: Scenario A
 date: 2016-10-31
 ---
 
-*"Shuffle off this mortal coil, you cunt"* – Hamlet
-
-~
+*"Shuffle off this mortal coil, you cunt"* – Hamlet ~
 
 **Marine A** turns a few cartwheels in the middle of the stage. His fatigues and flak jacket rustle heavily. Abruptly he stops and looks around. The footlights are blinding. There doesn't seem to be anyone in the audience.
 
