@@ -4,6 +4,8 @@ title: I almost died of doing nothing
 date: 2015-10-09
 ---
 
+*You can't say you're a photographer because you take photographs. You can't say you're alive just because you live.* — Masahisa Fukase
+
 If you 'love life', you are my enemy. If you love the arts, and literature in particular, you are my enemy. You make things difficult for me.
 
 I know this puts me in the wrong. It takes discipline to love life, or to love literature, but I am undisciplined, I am uncultivated, and (what's worse) I aim to make a virtue of these shortcomings.
@@ -25,9 +27,3 @@ Aesthetic pleasures are closely bound up with the art object's original delibera
 This gradual disappearance of art from the world takes place in parallel with a massive increase in art consumption — in fact it is an epiphenomenon of the process that makes possible this massive increase in art consumption.
 
 If the world's depressed people could only make their disinterest more complete and uncompromising... if they could just stop waiting and watching... then they would act, in unison, and in a truly intentional manner. They wouldn't do it for the sake of art, however. They would act on behalf of life, and because they were bored.
-
-
-
-
-
-
