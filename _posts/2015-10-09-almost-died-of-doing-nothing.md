@@ -4,6 +4,8 @@ title: I almost died of doing nothing
 date: 2015-10-09
 ---
 
+*You can't say you're a photographer because you take photographs. You can't say you're alive just because you live.* — Masahisa Fukase
+
 If you 'love life' you are my enemy. If you love the arts, and literature in particular, you are my enemy. You make things difficult for me. It takes discipline to love life and art, and this may come easily to you, but I am undisciplined, and uncultivated, and (what's worse) I regard these shortcomings as honourable.
 
 I almost died of doing nothing: whole months went by without my picking up a book or leaving the house, and through an obscure chain reaction this lack of new experiences destroyed my body. It caused me to age more rapidly than usual. Don't underestimate psychosomatic processes.
@@ -25,5 +27,3 @@ This gradual disappearance of art from the world takes place alongside a massive
 >"Never before has censorship been so perfect. Never before have those who are still led to believe, in a few countries, that they remain free citizens, been less entitled to make their opinions heard, wherever it is a matter of choices affecting their real lives. Never before has it been possible to lie to them so brazenly. The spectator is simply supposed to know nothing, and deserve nothing. Those who are always watching to see what happens next will never act: such must be the spectator’s condition."
 
 Depression is hope travestied. The depressed person waits for something that cannot possibly materialise unless they stop waiting. Depression is a thwarted revolutionary impulse. If the world's depressed people could only make their unworldly disinterest more complete and uncompromising — if they could force themselves to stop waiting and watching — then they would act, in unison, fearlessly, and in a truly deliberate way. They wouldn't do it for the sake of art, or to preserve a life approximating the alienated form of an artwork. They would act in pursuit of a more immediately lived life, and because they were bored.
-
-*You can't say you're a photographer just because you take photographs. You can't say you're alive just because you live.* — Masahisa Fukase
