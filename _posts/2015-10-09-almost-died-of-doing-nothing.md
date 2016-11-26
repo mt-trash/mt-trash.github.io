@@ -4,9 +4,9 @@ title: I almost died of doing nothing
 date: 2015-10-09
 ---
 
-*You can't say you're a photographer because you take photographs. You can't say you're alive just because you live.* — Masahisa Fukase
+"You can't say you're a photographer because you take photographs. You can't say you're alive just because you live." — Masahisa Fukase
 
-If you 'love life' you are my enemy. If you love the arts, and literature in particular, you are my enemy. You make things difficult for me. It takes discipline to love life and art, and this may come easily to you, but I am undisciplined, and uncultivated, and (what's worse) I regard these shortcomings as honourable.
+If you love the arts, and literature in particular, you are my enemy. You make life difficult for me. It takes discipline to love life and art, and this may come easily to you, but I am undisciplined, and uncultivated, and (what's worse) I regard these shortcomings as honourable.
 
 I almost died of doing nothing: whole months went by without my picking up a book or leaving the house, and through an obscure chain reaction this lack of new experiences destroyed my body. It caused me to age more rapidly than usual. Don't underestimate psychosomatic processes.
 
