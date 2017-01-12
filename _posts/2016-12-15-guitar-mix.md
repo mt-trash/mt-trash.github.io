@@ -6,7 +6,7 @@ date: 2016-12-15
 
 <a name="tracklist"></a>[(music + full tracklist is here)](/2016/12/15/guitar-mix/#tracklist)
 
-I tried to make an hour-long compilation of songs my teenage self would have liked.
+more guitar music
 
 <!-- more -->
 
