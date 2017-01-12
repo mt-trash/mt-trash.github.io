@@ -6,7 +6,9 @@ date: 2016-12-15
 
 {% include mixcloud.html mixname="guitar-mix-15122016" %}
 
-I tried to make an hour-long compilation of songs my teenage self would have liked.
+I tried to make an hour-long compilation of songs my teenage self would have liked. <a name="tracklist"></a>[(full tracklist is here)](/2016/12/15/guitar-mix/#tracklist)
+
+<!-- more -->
 
 65:28
 
