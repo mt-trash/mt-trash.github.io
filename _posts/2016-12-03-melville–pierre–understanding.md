@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Melville on disavowal
+title: Melville writing about disavowal
 date: 2016-12-03
 ---
 
