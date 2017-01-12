@@ -4,11 +4,13 @@ title: Guitar Mix
 date: 2016-12-15
 ---
 
-{% include mixcloud.html mixname="guitar-mix-15122016" %}
+<a name="tracklist"></a>[(music + full tracklist is here)](/2016/12/15/guitar-mix/#tracklist)
 
-I tried to make an hour-long compilation of songs my teenage self would have liked. <a name="tracklist"></a>[(full tracklist is here)](/2016/12/15/guitar-mix/#tracklist)
+I tried to make an hour-long compilation of songs my teenage self would have liked.
 
 <!-- more -->
+
+{% include mixcloud.html mixname="guitar-mix-15122016" %}
 
 65:28
 
