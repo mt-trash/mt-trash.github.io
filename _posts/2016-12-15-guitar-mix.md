@@ -6,6 +6,10 @@ date: 2016-12-15
 
 {% include mixcloud.html mixname="guitar-mix-15122016" %}
 
+I tried to make an hour-long compilation of songs my teenage self would have liked. There's probably too much JAGATARA in there! [full tracklist in the post](http://http://empty-trash.com/2016/12/15/guitar-mix/)
+
+<!-- more -->
+
 65:28
 
 Group Bombino – Kamoutalia
