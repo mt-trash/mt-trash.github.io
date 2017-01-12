@@ -378,8 +378,10 @@ form {
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 img {
-  max-width: 100%;
-  box-sizing: border-box; }
+  width: auto;
+  height: auto;
+  max-width: 100%; 
+  max-height: 90%}
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
