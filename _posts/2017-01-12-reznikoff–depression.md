@@ -4,7 +4,7 @@ title: From Charles Reznikoff's 'Testimony' (the 1934 version)
 date: 2017-01-12
 ---
 
-(This is the first entry under the heading **Depression**)
+(This is the first entry under the heading *Depression*)
 
 It had stopped raining. He was walking home with his brother. There was a puddle of water on the sidewalk, shining in the afternoon sunlight, and when he came to it, he slapped his brother on the arm and said, "See, there is money, can't you see? I will make money out of that. That is the biggest thing in the world to make money out of."
 
