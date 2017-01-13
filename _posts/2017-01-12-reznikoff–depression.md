@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Charles Reznikoff's 'Testimony' (the 1934 version)
+title: From Charles Reznikoff's 'Testimony' (1934 text)
 date: 2017-01-12
 ---
 
