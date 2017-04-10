@@ -6,7 +6,7 @@ date: 2016-12-15
 
 <a name="tracklist"></a>[(music + full tracklist is over here)](/2016/12/15/guitar-mix/#tracklist)
 
-more guitar music
+guitar music
 
 <!-- more -->
 
