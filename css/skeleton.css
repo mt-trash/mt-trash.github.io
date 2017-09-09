@@ -168,7 +168,7 @@ a {
 a.footnote {
   font-size: 1.3rem; }
 a.trash {
-  color: #000000; }
+  color: #000000; text-decoration: none; }
 
 
 /* Buttons
