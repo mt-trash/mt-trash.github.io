@@ -3,7 +3,7 @@ layout: default
 title: Empty Trash
 ---
 <div class="row">
-  <div class="u-full-width" style="margin-top: 1%">
+  <div class="eight columns" style="margin-top: 1%">
   	<hr>
     {% for post in paginator.posts %}
       <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
@@ -12,14 +12,14 @@ title: Empty Trash
   </div>
 </div>
 <div class="row">
-  <div class="two columns" style="margin-bottom: 5%">
+  <div class="two columns">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">Newer</a>
   {% else %}
     <span class="inactive">Newer</span>
   {% endif %}
   </div>
-  <div class="two columns" style="margin-bottom: 5%">
+  <div class="two columns">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}">Older</a>
   {% else %}
@@ -29,6 +29,6 @@ title: Empty Trash
 </div>
 <div class="row">
   <div class="two columns" style="margin-bottom: 5%">
-    <span>Page {{ paginator.page }} of {{ paginator.total_pages }})</span>
+    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
   </div>
 </div>
