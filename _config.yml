@@ -3,6 +3,7 @@ markdown: kramdown
 url: http://empty-trash.com
 baseurl: /
 paginate: 10
+excerpt_separator: "<!-- more -->"
 permalink: pretty
 gems:
   - jekyll-sitemap
