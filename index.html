@@ -2,11 +2,13 @@
 layout: default
 title: Empty Trash
 ---
+
 <div class="row">
-  <div class="ten columns">
+  <div class="seven columns" style="margin-top: 1%">
+  <hr>
     {% for post in paginator.posts %}
       <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
-      <p>{{ post.date | date_to_string }} // {{ post.content | number_of_words }} words</p><p>{{ post.preview }}</p>
+      <p>{{ post.date | date_to_string }} // {{ post.content | number_of_words }} words</p><p>{{ post.preview }}</p><hr>
     {% endfor %}
   </div>
 </div>
