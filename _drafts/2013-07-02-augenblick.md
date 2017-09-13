@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Augenblick
-date: 2017-07-02
+date: 2013-07-02
 ---
 
 At that time people were convinced we had reached an impasse. Not only that: they thought we were at a historically unique moment, an instant forgetful of the others that had preceded it. The idea hanging over everyone's heads (unnerving to some, encouraging to others) was that we had arrived at a disappointing equilibrium. The only catastrophes that seemed at all likely to happen were the apolitical ones. Another couple of decades might erase from our memory the old possibilities. There was even a popular feeling that two millennia of thought and history could be archived and minimised; in fact, this was happening naturally, each academic year, as the humanities, the old paper culture, confined itself to the old buildings. None of it would be lost — but then the country was filling up with happy, good-natured philistines, so who would ever read it again? We were willing to let history and art build themselves up again from nothing. Without burning anything down we had begun a slow and apparently egalitarian cultural revolution.
