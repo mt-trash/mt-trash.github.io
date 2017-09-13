@@ -1,6 +1,6 @@
 name: bin
 markdown: kramdown
-url: http://empty-trash.com
+url: https://mt-trash.github.io
 baseurl: /
 paginate: 5
 excerpt_separator: "<!-- more -->"
