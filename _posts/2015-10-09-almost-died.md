@@ -29,6 +29,8 @@ Aesthetic pleasures are closely connected to the deliberateness of art and spect
 
 This gradual disappearance of art from the world takes place alongside a massive increase in art consumption — in fact it is an epiphenomenon of the process that makes possible such a massive increase in art consumption.
 
+**C**
+
 >"Never before has censorship been so perfect. Never before have those who are still led to believe, in a few countries, that they remain free citizens, been less entitled to make their opinions heard, wherever it is a matter of choices affecting their real lives. Never before has it been possible to lie to them so brazenly. The spectator is simply supposed to know nothing, and deserve nothing. Those who are always watching to see what happens next will never act: such must be the spectator’s condition."
 
 Depression is hope travestied. Depressed people wait for something that cannot possibly materialise unless they stop waiting. Depression is a thwarted revolutionary impulse. If the world's depressed people could only make their unworldly disinterest more complete and uncompromising — if they could force themselves to stop waiting and watching — then they would act, in unison, fearlessly, and in a truly deliberate way. They wouldn't do it for the sake of art, or to preserve a life approximating the alienated form of an artwork. They would act in pursuit of a more immediately lived life, and because they were bored.
