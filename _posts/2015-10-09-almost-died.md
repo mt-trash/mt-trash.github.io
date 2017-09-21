@@ -7,7 +7,8 @@ preview: Things seem interminable. You recognise, sometimes mistakenly, the unli
 
 {% include image-no-link.html file="/images/fukase-wanibe.jpg" alt="Yoko Wanibe, photographed by Masahisa Fukase in a slaughterhouse near Tokyo Port" %}
 
->"You can't say you're a photographer because you take photographs. You can't say you're alive just because you live." —Masahisa Fukase
+>"You can't say you're a photographer because you take photographs. You can't say you're alive just because you live."  
+—Masahisa Fukase
 
 **A**
 
