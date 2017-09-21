@@ -2,6 +2,7 @@
 layout: post
 title: Almost died of doing nothing
 date: 2015-10-09
+preview: Things seem interminable. You recognise, sometimes mistakenly, the unlikelihood of real change. 
 ---
 
 {% include image-no-link.html file="/images/fukase-wanibe.jpg" alt="Yoko Wanibe, photographed by Masahisa Fukase in a slaughterhouse near Tokyo Port" %}
