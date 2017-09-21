@@ -126,11 +126,16 @@ body {
   font-weight: 400;
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
-  background-color: #ffff00; }
+  background-color: #000000; }
 div {
   background-color: #ffffff; 
-  border-style: solid;
-  border-width: 5px;
+  border-left-style: solid;
+  border-right-style: none;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-left-width: 1px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
   border-color: #ffffff; }
 
 
