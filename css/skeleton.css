@@ -121,7 +121,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.5;
   font-weight: 400;
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -133,8 +133,8 @@ div {
   border-right-style: solid;
   border-top-style: solid;
   border-bottom-style: solid;
-  border-left-width: 1px;
-  border-right-width: 1px;
+  border-left-width: 5px;
+  border-right-width: 5px;
   border-top-width: 5px;
   border-bottom-width: 5px;
   border-color: #ffffff; }
@@ -155,10 +155,6 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
-  body { font-size: 1.6em; }
-  div {
-  border-left-width: 5px;
-  border-right-width: 5px; }
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.2rem; }
   h3 { font-size: 3.6rem; }
