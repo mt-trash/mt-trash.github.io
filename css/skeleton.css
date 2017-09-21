@@ -133,12 +133,20 @@ div {
   border-right-style: solid;
   border-top-style: solid;
   border-bottom-style: solid;
-  border-left-width: 3px;
-  border-right-width: 3px;
+  border-left-width: 2px;
+  border-right-width: 2px;
   border-top-width: 5px;
   border-bottom-width: 5px;
   border-color: #ffffff; }
-
+  
+/* Larger than phablet */
+@media (min-width: 550px) {
+  body {
+  font-size: 1.6em; }
+  div {
+  border-left-width: 5px;
+  border-right-width: 5px; }
+}
 
 /* Typography
 ================================================== */
