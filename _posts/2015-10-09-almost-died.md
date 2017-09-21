@@ -7,7 +7,7 @@ preview: Things seem interminable. You recognise, sometimes mistakenly, the unli
 
 {% include image-no-link.html file="/images/fukase-wanibe.jpg" alt="Yoko Wanibe, photographed by Masahisa Fukase in a slaughterhouse near Tokyo Port" %}
 
->'You can't say you're a photographer because you take photographs. You can't say you're alive just because you live.' —Masahisa Fukase
+>"You can't say you're a photographer because you take photographs. You can't say you're alive just because you live." —Masahisa Fukase
 
 **A**
 
@@ -31,6 +31,6 @@ This gradual disappearance of art from the world takes place alongside a massive
 
 **C**
 
->'Never before has censorship been so perfect. Never before have those who are still led to believe, in a few countries, that they remain free citizens, been less entitled to make their opinions heard, wherever it is a matter of choices affecting their real lives. Never before has it been possible to lie to them so brazenly. The spectator is simply supposed to know nothing, and deserve nothing. Those who are always watching to see what happens next will never act: such must be the spectator’s condition.'
+>Never before has censorship been so perfect. Never before have those who are still led to believe, in a few countries, that they remain free citizens, been less entitled to make their opinions heard, wherever it is a matter of choices affecting their real lives. Never before has it been possible to lie to them so brazenly. The spectator is simply supposed to know nothing, and deserve nothing. Those who are always watching to see what happens next will never act: such must be the spectator’s condition.
 
 Depression is hope travestied. Depressed people wait for something that cannot possibly materialise unless they stop waiting. Depression is a thwarted revolutionary impulse. If the world's depressed people could only make their unworldly disinterest more complete and uncompromising — if they could force themselves to stop waiting and watching — then they would act, in unison, fearlessly, and in a truly deliberate way. They wouldn't do it for the sake of art, or to preserve a life approximating the alienated form of an artwork. They would act in pursuit of a more immediately lived life, and because they were bored.
