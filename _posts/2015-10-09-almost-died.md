@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I almost died of doing nothing
+title: Almost died of doing nothing
 date: 2015-10-09
 preview: Depression is a condition that overtakes you after a disturbing realisation. No matter the particular content of this realisation it always brings to light the interminable nature of your situation.
 ---
