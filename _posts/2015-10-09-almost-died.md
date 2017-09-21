@@ -2,7 +2,7 @@
 layout: post
 title: Almost died of doing nothing
 date: 2015-10-09
-preview: Depression is a condition that overtakes you after a disturbing realisation. No matter the particular content of this realisation it always brings to light the interminable nature of your situation.
+preview: Depression is a condition that overtakes you after a disturbing realisation. No matter the particular content of this realisation it always brings out the monotony of your bad situation.
 ---
 
 "You can't say you're a photographer because you take photographs. You can't say you're alive just because you live." — Masahisa Fukase
@@ -12,7 +12,7 @@ If you love 'the arts', and 'literature' in particular, you are my enemy. You ma
 
 I almost died of doing nothing: whole months went by without my picking up a book or leaving the house, and through an obscure chain reaction this lack of new experiences destroyed my body. It caused me to age more rapidly than usual. (Never underestimate psychosomatic processes!)
 
-There are many of us, but we're not always easy to spot. We live like we're anticipating something. Depression is a condition that overtakes you after a disturbing realisation. No matter the particular content of this realisation it always brings to light the interminable nature of your situation. You recognise, sometimes mistakenly, the unlikelihood of real change. Weirdly enough, the conviction that things are now permanently broken causes you to live with one eye on the future. You keep yourself in reserve; your metabolism slows down; you wait for an impossible upheaval, a world revolution. You are obsessed with your bad circumstances, and this makes it hard to enjoy anything, but at the same time, in another part of your brain, your refusal to accept this intolerable situation turns into a principled resistance to the normal patterns of life. Anhedonic waiting is a way of bearing witness to how bad things really are.
+There are many of us, but we're not always easy to spot. We live like we're anticipating something. Depression is a condition that overtakes you after a disturbing realisation. No matter the particular content of this realisation it always brings out the monotony of your bad situation. Things seem interminable. You recognise, sometimes mistakenly, the unlikelihood of real change. Weirdly enough, the conviction that things are now permanently broken causes you to live with one eye on the future. You keep yourself in reserve; your metabolism slows down; you wait for an impossible upheaval, world revolution. You are obsessed with your bad circumstances, and this makes it hard to enjoy anything, but at the same time, in another part of your brain, your refusal to accept this intolerable situation turns into a principled resistance to the normal patterns of life. Anhedonic waiting is a way of bearing witness to how bad things really are.
 
 How does depression end? The depressed person (1) dies; (2) becomes ardently political or religious; or (3) stops waiting and learns to live normally, confined to the disappointing present and pragmatic near-future.
 
