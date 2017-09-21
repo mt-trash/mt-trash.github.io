@@ -5,8 +5,9 @@ date: 2015-10-09
 preview: Depression is a condition that overtakes you after a disturbing realisation. No matter the particular content of this realisation it always makes you aware of the monotony of your bad situation.
 ---
 
->"You can't say you're a photographer because you take photographs. You can't say you're alive just because you live."
->—Masahisa Fukase
+{% include image.html file="/images/fukase-wanibe.jpg" %}
+
+"You can't say you're a photographer because you take photographs. You can't say you're alive just because you live." —Masahisa Fukase
 
 **A**
 
