@@ -5,10 +5,10 @@ date: 2017-09-12
 preview: To prevent theory from turning into practice, we pay for the luxury of columnists.
 ---
 
-'People want Ulrich to *do* something. But I’m concerned with the *meaning* of the action. Today these are confused with each other. Of course Bolshevism, for example, has to occur; but (a) not through books, (b) books have other tasks.'
+>'People want Ulrich to *do* something. But I’m concerned with the *meaning* of the action. Today these are confused with each other. Of course Bolshevism, for example, has to occur; but (a) not through books, (b) books have other tasks.'
 >—Robert Musil, notes for a preface to *The Man Without Qualities*
 
-'We do not want our subjugation to market demands to be presented as free journalism, or the art of meeting deadlines to be confused with the art of presenting people with the truth. We do not want editorial democracy to grind like sand in the gears, and we want the columnists’ freedom to be recognised for what it is: a prestige and profit factor, a fraud for the readers, self-deception, a personality cult. You have to be a columnist to be allowed to describe the freedom of the columnist as the other side of the editor’s lack of freedom. To prevent theory from turning into practice, we pay for the luxury of columnists: powerless individuals, outsiders, stars.'
+>'We do not want our subjugation to market demands to be presented as free journalism, or the art of meeting deadlines to be confused with the art of presenting people with the truth. We do not want editorial democracy to grind like sand in the gears, and we want the columnists’ freedom to be recognised for what it is: a prestige and profit factor, a fraud for the readers, self-deception, a personality cult. You have to be a columnist to be allowed to describe the freedom of the columnist as the other side of the editor’s lack of freedom. To prevent theory from turning into practice, we pay for the luxury of columnists: powerless individuals, outsiders, stars.'
 >—Ulrike Meinhof, 'Columnism'
 
 
