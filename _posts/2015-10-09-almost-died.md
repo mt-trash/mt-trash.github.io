@@ -2,6 +2,7 @@
 layout: post
 title: The decision to do nothing is never lightly taken
 date: 2015-10-09
+preview: If you love 'the arts', and 'literature' in particular, you are my enemy.
 ---
 
 {% include image-no-link.html file="/images/fukase-wanibe.jpg" alt="fukase-wanibe.jpg" %}  
