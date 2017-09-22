@@ -8,7 +8,13 @@ title: Empty Trash
   <hr>
     {% for post in paginator.posts %}
       <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
-      <p>{{ post.date | date_to_string }} // {{ post.content | number_of_words }} words</p><p>{{ post.preview }}</p><hr>
+      <p>{{ post.date | date_to_string }} // 
+      {% capture words %}
+      {{ post.content | number_of_words | minus: 250 }}
+      {% endcapture %}
+      {% unless words contains "-" %}
+      {{ words | plus: 250 | append: " words" }}
+      {% endunless %}</p><p>{{ post.preview }}</p><hr>
     {% endfor %}
   </div>
 </div>
