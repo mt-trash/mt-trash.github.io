@@ -112,6 +112,12 @@
 
 }
 
+/* Animations
+================================================== */
+@keyframes bgcolour {
+  from {background-color: #ffffff; }
+  to {background-color: #ffff00; }
+  }
 
 /* Base Styles
 ================================================== */
@@ -126,7 +132,12 @@ body {
   font-weight: 400;
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
-  background-color: #ffff00; }
+  background-color: #ffffff;
+  animation-name: bgcolour;
+  animation-fill-mode: forwards;
+  animation-duration: 4s; 
+  animation-delay: 2s;
+  animation-iteration-count: 1; }
 div {
   background-color: #ffffff; 
   border-left-style: solid;
