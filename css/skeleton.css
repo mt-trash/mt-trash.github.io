@@ -112,37 +112,6 @@
 
 }
 
-/* Animations
-================================================== */
-@keyframes bgcolourmon {
-  from {background-color: #ffffff; }
-  to {background-color: #660000; }
-  }
-@keyframes bgcolourtue {
-  from {background-color: #ffffff; }
-  to {background-color: #ffff00; }
-  }
-@keyframes bgcolourwed {
-  from {background-color: #ffffff; }
-  to {background-color: #337700; }
-  }
-@keyframes bgcolourthu {
-  from {background-color: #ffffff; }
-  to {background-color: #990000; }
-  }
-@keyframes bgcolourfri {
-  from {background-color: #ffffff; }
-  to {background-color: #008800; }
-  }
-@keyframes bgcoloursat {
-  from {background-color: #ffffff; }
-  to {background-color: #ffaa00; }
-  }
-@keyframes bgcoloursun {
-  from {background-color: #ffffff; }
-  to {background-color: #000000; }
-  }
-
 /* Base Styles
 ================================================== */
 /* NOTE
@@ -156,12 +125,7 @@ body {
   font-weight: 400;
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
-  background-color: #ffffff;
-  animation-name: bgcolourtue;
-  animation-fill-mode: forwards;
-  animation-duration: 1s; 
-  animation-delay: 1s;
-  animation-iteration-count: 1; }
+  background-color: #ffffff;}
 div {
   background-color: #ffffff; 
   border-left-style: solid;
@@ -175,13 +139,13 @@ div {
   border-color: #ffffff; }
   
 /* Colours */
-.mon    { animation-name: bgcolourmon; }
-.tue    { animation-name: bgcolourtue; }
-.wed    { animation-name: bgcolourwed; }
-.thu    { animation-name: bgcolourthu; }
-.fri    { animation-name: bgcolourfri; }
-.sat    { animation-name: bgcoloursat; }
-.sun    { animation-name: bgcoloursun; }
+.mon    { background-color: #660000; }
+.tue    { background-color: #ffff00; }
+.wed    { background-color: #337700; }
+.thu    { background-color: #990000; }
+.fri    { background-color: #008800; }
+.sat    { background-color: #ffaa00; }
+.sun    { background-color: #000000; }
 
 
 /* Typography
