@@ -14,7 +14,7 @@ title: Empty Trash
       {% endcapture %}
       {% unless words contains "-" %}
       {{ words | plus: 250 | prepend: "// " | append: " words" }}
-      {% endunless %}</p><p>{{ post.preview }}</p>
+      {% endunless %}</p><p>{{ post.preview }}</p><hr>
     {% endfor %}
   </div>
 </div>
