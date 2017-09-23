@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The decision to do nothing is never lightly taken
-date: 2015-10-09
+date: 2017-01-01
 preview: If you love 'the arts', and 'literature' in particular, you are my enemy.
 ---
 
