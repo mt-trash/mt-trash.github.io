@@ -4,7 +4,7 @@ title: Country Road
 date: 2017-09-23
 ---
 {% include image-no-link.html file="/images/godwin.jpg" alt="godwin.jpg" %}  
-Fay Godwin: 'My interest in the land in my black and white work has consistently concerned human intervention — the history, tilling, and use of the land — I have never been interested in wilderness areas.'
+*Fay Godwin: 'My interest in the land in my black and white work has consistently concerned human intervention — the history, tilling, and use of the land — I have never been interested in wilderness areas.'*
 
 Walking along a country road late at night, a road without street lights, your eyes adjust to the dark and you begin to notice the english countryside's primordial aspect. Silhouetted copses, bits of uncultivated land here and there. At the height of summer the plants and trees look totally unrestrained. Narrower paths are crowded by ferns, huge dock leaves, brambles. In the night the colour drains out of everything, and when the weather's calm it's quiet. Things appear in outline; you can hear the grass growing. If the mood is right you may start to think about how this environment would look if it were left uninhabited for a long period of time. You can't help imagining an overgrown jungle teeming with greenery and nothing else. Your mind's eye swoops over and through the trees, sees green, blue, brown, hears the rustle and snap of hypertrophied branches. Maybe you got this idea from the beginning of *Heart of Darkness*.
 
