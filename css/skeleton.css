@@ -139,11 +139,11 @@ div {
   border-color: #ffffff; }
   
 /* Colours */
-.mon    { background-color: #660000; }
+.mon    { background-color: #cccccc; }
 .tue    { background-color: #ffff00; }
-.wed    { background-color: #337700; }
-.thu    { background-color: #990000; }
-.fri    { background-color: #008800; }
+.wed    { background-color: #008800; }
+.thu    { background-color: #ff1a1a; }
+.fri    { background-color: #669999; }
 .sat    { background-color: #ffaa00; }
 .sun    { background-color: #000000; }
 
