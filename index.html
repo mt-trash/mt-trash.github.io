@@ -7,15 +7,15 @@ title: Empty Trash
   <div class="ten columns">
   <hr>
     {% for post in paginator.posts %}
-      <h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
+      <hr><h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
       <p>{{ post.date | date_to_string }} {{ post.stats }}
       {% capture words %}
       {{ post.content | number_of_words | minus: 250 }}
       {% endcapture %}
       {% unless words contains "-" %}
       {{ words | plus: 250 | prepend: "// " | append: " words" }}
-      {% endunless %}</p><p>{{ post.preview }}</p><hr>
-    {% endfor %}
+      {% endunless %}</p><p>{{ post.preview }}</p>
+    {% endfor %}<hr>
   </div>
 </div>
 <div class="row">
