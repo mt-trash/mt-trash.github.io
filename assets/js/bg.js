@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(){
 	var d = new Date();
 	var n = d.getDay();
-	if (n = 0)
+	if (n == 0)
 	  document.body.className = "sun";
 	else if (n == 1)
 	  document.body.className = "mon";
