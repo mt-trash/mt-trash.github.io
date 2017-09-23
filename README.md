@@ -1,3 +1,3 @@
 # mt-trash.github.io
 
-a blog lives here
+ein Blog
