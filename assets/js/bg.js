@@ -1,4 +1,4 @@
-$(document).ready(function(){
+document.addEventListener("DOMContentLoaded", function(){
 	var d = new Date();
 	var n = d.getDay();
 	if (n = 0)
