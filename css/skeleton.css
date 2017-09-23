@@ -159,7 +159,7 @@ body {
   background-color: #ffffff;
   animation-name: bgcolourtue;
   animation-fill-mode: forwards;
-  animation-duration: 2s; 
+  animation-duration: 1s; 
   animation-delay: 1s;
   animation-iteration-count: 1; }
 div {
