@@ -114,9 +114,33 @@
 
 /* Animations
 ================================================== */
-@keyframes bgcolour {
+@keyframes bgcolourmon {
+  from {background-color: #ffffff; }
+  to {background-color: #660000; }
+  }
+@keyframes bgcolourtue {
   from {background-color: #ffffff; }
   to {background-color: #ffff00; }
+  }
+@keyframes bgcolourwed {
+  from {background-color: #ffffff; }
+  to {background-color: #337700; }
+  }
+@keyframes bgcolourthu {
+  from {background-color: #ffffff; }
+  to {background-color: #990000; }
+  }
+@keyframes bgcolourfri {
+  from {background-color: #ffffff; }
+  to {background-color: #008800; }
+  }
+@keyframes bgcoloursat {
+  from {background-color: #ffffff; }
+  to {background-color: #ffaa00; }
+  }
+@keyframes bgcoloursun {
+  from {background-color: #ffffff; }
+  to {background-color: #000000; }
   }
 
 /* Base Styles
@@ -133,7 +157,7 @@ body {
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
   background-color: #ffffff;
-  animation-name: bgcolour;
+  animation-name: bgcolourtue;
   animation-fill-mode: forwards;
   animation-duration: 2s; 
   animation-delay: 1s;
@@ -149,6 +173,15 @@ div {
   border-top-width: 5px;
   border-bottom-width: 5px;
   border-color: #ffffff; }
+  
+/* Colours */
+.mon    { animation-name: bgcolourmon; }
+.tue    { animation-name: bgcolourtue; }
+.wed    { animation-name: bgcolourwed; }
+.thu    { animation-name: bgcolourthu; }
+.fri    { animation-name: bgcolourfri; }
+.sat    { animation-name: bgcoloursat; }
+.sun    { animation-name: bgcoloursun; }
 
 
 /* Typography
