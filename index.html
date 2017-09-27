@@ -22,13 +22,8 @@ title: Empty Trash
   <div class="eight columns" style="margin-bottom: 1%">
   {% if paginator.next_page %}
     <a class="button" href="{{ paginator.next_page_path }}">Older</a>
-  {% else %}
-    <button class="button-inactive">Older</a>
-  {% endif %}    
-  {% if paginator.previous_page %}
+  {% endif %}    {% if paginator.previous_page %}
     <a class="button" href="{{ paginator.previous_page_path }}">Newer</a>
-  {% else %}
-    <button class="button-inactive">Newer</a>
   {% endif %}
   </div>
 </div>
