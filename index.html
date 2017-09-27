@@ -25,16 +25,15 @@ title: Empty Trash
   {% endif %}    {% if paginator.previous_page %}
     <a class="button" href="{{ paginator.previous_page_path }}">Newer Posts</a>
   {% endif %}
+  </div>
+  <div class="three columns" style="margin-bottom: 1%">
+  <h5><b>{{ paginator.page }} / {{ paginator.total_pages }}</b></h5>
   <p>
   </div>
 </div>
 <div class="row">
   <div class="three columns" style="margin-bottom: 5%">
-  <h5><b>{{ paginator.page }} / {{ paginator.total_pages }}</b></h5>
-  <p>
-  </div>
-  <div class="three columns" style="margin-bottom: 5%">
-  <u><a class="trash" href="/about">About</a></u>
+    <u><a class="trash" href="/about">About</a></u>
   </div>
 </div>
 
