@@ -26,17 +26,10 @@ title: Empty Trash
     <a class="button" href="{{ paginator.previous_page_path }}">Newer Posts</a>
   {% endif %}
   </div>
-  <div class="three columns" style="margin-bottom: 1%">
-  <h5><b>{{ paginator.page }} / {{ paginator.total_pages }}</b></h5>
-  <p>
-  </div>
 </div>
 <div class="row">
   <div class="four columns" style="margin-bottom: 1%">
-    <p>{{ site.time | date_to_string }}</p>
-  </div>
-  <div class="four columns" style="margin-bottom: 1%">
-    <u><a class="trash" href="/about">About</a></u>
+    <p>{{ site.time | date_to_string }}&nbsp;&nbsp;//&nbsp;&nbsp;<u><a class="trash" href="/about">About</a></u></p>
   </div>
 </div>
 
