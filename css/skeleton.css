@@ -208,7 +208,7 @@ input[type="button"] {
   background-color: transparent;
   border-radius: 1px;
   border: 3px solid #bbb;
-  cursor: pointer;
+  cursor: default;
   box-sizing: border-box; }
 .button:hover,
 button:hover,
