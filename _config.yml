@@ -2,7 +2,7 @@ name: bin
 markdown: kramdown
 url: http://empty-trash.com
 baseurl: /
-paginate: 3
+paginate: 2
 excerpt_separator: "<!-- more -->"
 permalink: pretty
 gems:
