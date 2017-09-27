@@ -20,7 +20,6 @@ title: Empty Trash
 </div>
 <div class="row">
   <div class="eight columns" style="margin-bottom: 1%">
-  <h4>{{ paginator.page }} / {{ paginator.total_pages }}</h4>&nbsp;&nbsp;
   {% if paginator.next_page %}
     <a class="button" href="{{ paginator.next_page_path }}">Older Posts</a>
   {% endif %}&nbsp;&nbsp;{% if paginator.previous_page %}
@@ -30,7 +29,7 @@ title: Empty Trash
 </div>
 <div class="row">
   <div class="four columns" style="margin-bottom: 1%">
-    <p>{{ site.time | date_to_string }}&nbsp;&nbsp;//&nbsp;&nbsp;<u><a class="trash" href="/about">About</a></u></p>
+    <p>Page {{ paginator.page }} of {{ paginator.total_pages }}&nbsp;&nbsp;//&nbsp;&nbsp;{{ site.time | date_to_string }}&nbsp;&nbsp;//&nbsp;&nbsp;<u><a class="trash" href="/about">About</a></u></p>
   </div>
 </div>
 
