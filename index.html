@@ -12,7 +12,7 @@ title: Empty Trash
       {{ post.content | number_of_words | minus: 250 }}
       {% endcapture %}
       {% unless words contains "-" %}
-      {{ words | plus: 250 | prepend: "// " | append: " words" }}
+      {{ words | plus: 250 | prepend: "| " | append: " words" }}
       {% endunless %}</p><p>{{ post.preview }}</p>
     {% endfor %}
     <hr>
