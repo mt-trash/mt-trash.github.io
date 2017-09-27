@@ -204,13 +204,12 @@ input[type="button"] {
   font-weight: 600;
   line-height: 36px;
   letter-spacing: .1rem;
-  text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
   background-color: transparent;
-  border-radius: 4px;
+  border-radius: 1px;
   border: 1px solid #bbb;
-  cursor: default;
+  cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
 button:hover,
