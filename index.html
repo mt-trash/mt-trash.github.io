@@ -18,15 +18,15 @@ title: Empty Trash
     <hr>
   </div>
 </div>
-<div class="row">
-  <div class="two columns" style="margin-bottom: 1%">
+<div class="row" margin-left: 20%>
+  <div class="four columns" style="margin-bottom: 1%">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}">Older</a>
   {% else %}
     <span class="inactive">Older</span>
   {% endif %}
   </div>
-  <div class="two columns" style="margin-bottom: 1%">
+  <div class="four columns" style="margin-bottom: 1%">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">Newer</a>
   {% else %}
@@ -34,11 +34,11 @@ title: Empty Trash
   {% endif %}
   </div>
 </div>
-<div class="row">
-  <div class="six columns">
+<div class="row" margin-left: 20%>
+  <div class="four columns">
     <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
   </div>
-  <div class="six columns">
+  <div class="four columns">
     <span>eg | {{ 'now' | date: "%Y" }}</span>
   </div>
 </div>
