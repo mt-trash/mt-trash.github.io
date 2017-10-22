@@ -48,8 +48,8 @@
     padding: 0; }
 }
 
-/* For devices larger than 550px */
-@media (min-width: 550px) {
+/* For devices larger than 700px */
+@media (min-width: 700px) {
   .container {
     width: 80%; }
   .column,
@@ -161,20 +161,20 @@ h4 { font-family: Helvetica, Arial, sans-serif; font-size: 2.4rem; line-height: 
 h5 { font-size: 2rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
-/* Larger than phablet */
-@media (min-width: 550px) {
+/* For devices larger than 700px */
+@media (min-width: 700px) {
   div {
   border-left-width: 5px;
   border-right-width: 5px; }
   body {
   font-size: 2em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6; }
-  h1 { font-size: 6.0rem; }
-  h2 { font-size: 5.2rem; }
-  h3 { font-size: 4.6rem; }
-  h4 { font-size: 4.0rem; }
-  h5 { font-size: 3.4rem; }
-  h6 { font-size: 2.5rem; }
+  h1 { font-size: 5.8rem; }
+  h2 { font-size: 5.0rem; }
+  h3 { font-size: 4.4rem; }
+  h4 { font-size: 3.8rem; }
+  h5 { font-size: 3.2rem; }
+  h6 { font-size: 2.3rem; }
 }
 
 p {
