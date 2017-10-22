@@ -167,14 +167,14 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   border-left-width: 5px;
   border-right-width: 5px; }
   body {
-  font-size: 2em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.8em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6; }
   h1 { font-size: 5.8rem; }
   h2 { font-size: 5.0rem; }
-  h3 { font-size: 4.4rem; }
-  h4 { font-size: 3.8rem; }
-  h5 { font-size: 3.2rem; }
-  h6 { font-size: 2.3rem; }
+  h3 { font-size: 4.0rem; }
+  h4 { font-size: 3.4rem; }
+  h5 { font-size: 2.8rem; }
+  h6 { font-size: 2.0rem; }
 }
 
 p {
@@ -405,29 +405,3 @@ hr {
   content: "";
   display: table;
   clear: both; }
-
-
-/* Media Queries
-================================================== */
-/*
-Note: The best way to structure the use of media queries is to create the queries
-near the relevant code. For example, if you wanted to change the styles for buttons
-on small devices, paste the mobile query code up in the buttons section and style it
-there.
-*/
-
-
-/* Larger than mobile */
-@media (min-width: 400px) {}
-
-/* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
-
-/* Larger than tablet */
-@media (min-width: 750px) {}
-
-/* Larger than desktop */
-@media (min-width: 1000px) {}
-
-/* Larger than Desktop HD */
-@media (min-width: 1200px) {}
