@@ -125,7 +125,7 @@ body {
   font-weight: 400;
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
-  background-color: #ffffff;}
+  background-color: #eeeeee;}
 div {
   background-color: #ffffff; 
   border-left-style: solid;
@@ -136,7 +136,7 @@ div {
   border-right-width: 2px;
   border-top-width: 5px;
   border-bottom-width: 5px;
-  border-color: #eeeeee; }
+  border-color: #ffffff; }
 
 
 /* Typography
