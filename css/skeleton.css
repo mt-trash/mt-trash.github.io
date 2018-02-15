@@ -179,7 +179,7 @@ a {
 a.footnote {
   font-size: 1.3rem; }
 a.trash {
-  color: #000000; text-decoration: none; }
+  color: #dddddd; text-decoration: none; }
 
 
 /* Buttons
@@ -327,7 +327,6 @@ hr {
 /* Clearing
 ================================================== */
 
-/* Self Clearing Goodness */
 .container:after,
 .row:after,
 .u-cf {
