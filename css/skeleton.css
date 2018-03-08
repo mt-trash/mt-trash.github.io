@@ -125,7 +125,7 @@ body {
   font-weight: 400;
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
-  background-color: #eeeeee;}
+  background-color: #ffffff;}
 div {
   background-color: #ffffff; 
   border-left-style: solid;
@@ -179,7 +179,7 @@ a {
 a.footnote {
   font-size: 1.3rem; }
 a.trash {
-  color: #dddddd; text-decoration: none; }
+  color: #000000; text-decoration: none; }
 
 
 /* Buttons
