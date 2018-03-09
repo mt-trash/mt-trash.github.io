@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charles Reznikoff’s Objective Aesthetics
-date: 2018-03-09
+date: 2017-12-03
 ---
 
 **Representing History**
