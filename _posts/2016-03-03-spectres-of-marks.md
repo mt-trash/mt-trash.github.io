@@ -14,21 +14,23 @@ It may be useful, then, to think about Jacques Derrida’s *Specters of Marx*, a
 
 All of which suggests that Gaddis is preoccupied with the *failures of communication* that proliferate due to capitalist dynamics. The theme develops as Gaddis considers the fates suffered by the other artists in the novel. The young composer Edward Bast is commissioned by a stockbroker, Crawley, to write music for a film Crawley has produced. When they meet to discuss Bast’s progress the conversation turns to the nature of composition, and whether the music is fully realised in the mind of the composer prior to it being performed:
 
-~~~
+---
 —Just tell me something, Bast. When you sit down to compose, do you hear this tumti tumti tum and then get it right down on paper? or . . .
 —Yes well that’s a little difficult to . . .
 —No no don’t try to explain it to me probably wouldn’t understand it if you did, prodigious Bast, prodigious, that grandeur we talked about I can almost feel it right here in my hands . . . and the case came up briefly—just the sheer bulk of it, spared nothing have you.
 —Yes well I felt you’d want it scored for full orchestra and of course dealing with ninety-five instruments is . . .
 —Each playing its part to fill the screen with the breath of life, to make us feel the vastness of the plains, the purple mountains’ majesty all down in these little hentracks.[^13]
-~~~
+---
 
 Crawley, insisting on a very limited idea of grandeur and ‘bulk’, has no access to the ideal, intangible form of Bast’s work, and no real interest in the abstract quality of music and the process of its composition, which involves a translation from subjectivity to notation and then to performance. By taking possession of the work in this scene Crawley literally objectifies it, marvelling at its physical form (both its heft and the visible complexity of the marks on the page), while confessing a complete incomprehension of its meaning. He can only envision its role in the completed commercial film, by which time it will already have been recorded to tape and reified. Crawley is not even particularly interested in the logistics of performing the composition: at the mention of the ninety-five instruments he leaps ahead to a vision of the work already recorded and set alongside the film. Bast’s composition is thus reduced to a dead artefact (the score) and a taped, infinitely reproducible performance. Towards the end of the novel Bast becomes more irritable about this, as he tells Eigen when he goes to collect another score he has written:
 
->—Yes, yes here they are look. They don’t really look like anything do they.
->—Yes fine, now . . .
->—A lot of, like a lot of chickentracks don’t they, look. I mean it’s all still just what I hear there isn’t it.
->—Fine yes! now . . .
->—I mean until a performer hears what I hear and can make other people hear what he hears it’s just trash isn’t it Mister Eigen, it’s just trash like everything in this place everything you and Mister Gibbs and Mister Schramm all of you saw here it’s just trash! 
+---
+—Yes, yes here they are look. They don’t really look like anything do they.
+—Yes fine, now . . .
+—A lot of, like a lot of chickentracks don’t they, look. I mean it’s all still just what I hear there isn’t it.
+—Fine yes! now . . .
+—I mean until a performer hears what I hear and can make other people hear what he hears it’s just trash isn’t it Mister Eigen, it’s just trash like everything in this place everything you and Mister Gibbs and Mister Schramm all of you saw here it’s just trash! 
+---
 
 These are Bast’s last words in the novel, and their meaning is ambivalent. Bast is outraged that his practice as a composer is not recognised for its intrinsic value independent of exchange, but at the same time he seems to grudgingly acknowledge that a work without an audience will amount to nothing more than the discarded ‘trash’ that surrounds him in the apartment where he works on his score. Like Schepperman, he thinks he should be able to produce art for its own sake, but in the midst of a system of commodity production it is only by guaranteeing that someone else ‘hears what I hear’ that he can hope to distinguish his work from the intrusive noises, strewn papers, and random objects which begin to crowd in entropically whenever Gaddis describes Bast or Gibbs attempting to work on their creative projects.
 
@@ -42,11 +44,15 @@ Spencer’s essay goes further and finds ‘the dominance of facts, pragmatism, 
 
 Gaddis demonstrates how such rationalism and pragmatism aids and abets capital accumulation, especially where language is involved. One major subplot in the novel concerns a fictional African country, Gandia, where an agent of Typhon International is orchestrating the secession of ‘Uaso province’, an area rich in cobalt, nickel, and other minerals.[^23] This is an obvious reference to the Congo crisis of 1960: the leftist leader ‘Nowunda’ is Patrice Lumumba, and ‘Uaso province’ is Katanga, which seceded with encouragement from Belgian and US capitalist interests. When this subplot is first introduced, it is in connection with a written contract, and the details emerge from one half of a phone conversation:
 
->Down in seven. In order to expedite this and so forth and so forth the government agrees to advance to Typhon International the sum of thirty-nine point seven million dollars [...] . . . what? Because if they wanted to buy nickel they would have said nickel. They didn’t come to us to buy nickel. They didn’t come to us to buy iron or arsenic they came to buy cobalt and cobalt occurs in smaltite, if we come across nickel or iron or anything else in the ore reduction that’s . . . well let them scream giveaway [^24]
+---
+Down in seven. In order to expedite this and so forth and so forth the government agrees to advance to Typhon International the sum of thirty-nine point seven million dollars [...] . . . what? Because if they wanted to buy nickel they would have said nickel. They didn’t come to us to buy nickel. They didn’t come to us to buy iron or arsenic they came to buy cobalt and cobalt occurs in smaltite, if we come across nickel or iron or anything else in the ore reduction that’s . . . well let them scream giveaway [^24]
+---
 
 In this scene and others located at Typhon International, Gaddis shows how technologies of communication and abstraction (the telephone and the contract) facilitate the accumulation of capital: first, by enabling the manipulation of the material world at a distance; secondly, by giving ‘title’ to its contents and creating the linguistic and symbolic scaffolding on which ownership is built; finally, by allowing Typhon to ‘pass over in silence’ certain parts of the material world when it is in their interest to do so (in this case, they omit the nickel and iron from the contract).[^25] This is a representation of the preliminary workings of imperialism and finance capital which is consonant with first hand accounts of the Congo’s destabilisation: Thomas Kanza, in his history of the Congo’s struggle for independence, remarks that the wording of the documents circulated at pre- independence ‘Round Tables’ either omitted or concealed certain details of the arrangements which would guarantee the country’s continued economic dependence on Belgium:
 
->The basis of their talks was a collection of working papers prepared by Belgian experts. The Congolese had not the experience to recognize the glaring omissions in them, the absence of certain vital information, just as they had no way of knowing the various secret financial and other agreements which had been made between the Belgian government and some of its allies, and between Belgian financial bodies and other European and American business concerns.[^26]
+---
+The basis of their talks was a collection of working papers prepared by Belgian experts. The Congolese had not the experience to recognize the glaring omissions in them, the absence of certain vital information, just as they had no way of knowing the various secret financial and other agreements which had been made between the Belgian government and some of its allies, and between Belgian financial bodies and other European and American business concerns.[^26]
+---
 
 Aporias, omissions, and indeterminacy inevitably become the sites of dispossession in a system of distributed, symbolised ownership. Ironically, this critique of capitalism in *J R* reveals that ‘Marks’ – language, writing – are the false friends of the exploited. In this respect Gaddis’s novel has something in common with Jean Baudrillard’s influential work *For a Critique of the Political Economy of the Sign*, which claims to demonstrate the mutually sustaining relationship between ‘the code’ (language, sign and signified, and by extension the symbolic part of ideology) and the social forms particular to capitalism, notably the divergence between use value and exchange value.[^27] Gaddis’s critique may be unsystematic, then, but it captures the spirit of Western academic antipathy to capitalism that prevailed after 1968, a spirit inclined against symbolic structures first and foremost and material economic ones only secondarily.
 
