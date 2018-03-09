@@ -1,0 +1,13 @@
+---
+layout: post
+title: Country Road
+date: 2015-09-02
+---
+{% include image-no-link.html file="/images/godwin.jpg" alt="godwin.jpg" %}  
+*Fay Godwin: 'My interest in the land in my black and white work has consistently concerned human intervention — the history, tilling, and use of the land — I have never been interested in wilderness areas.'*
+
+Walking along a country road late at night, a road without street lights, your eyes adjust to the dark and you begin to notice the countryside's primeval aspect. Silhouetted copses, bits of uncultivated land here and there. At the height of summer the plants and trees grow quickly, visibly, wantonly. Narrower paths are crowded by ferns, huge dock leaves, brambles. In the night the colour drains out of everything, and when the weather's calm it's quiet... Things appear in outline. You can hear the grass moving. If the mood is right you may start to think about how this environment would look if it were left uninhabited for a long time. Maybe you imagine an overgrown jungle teeming with greenery. Your mind's eye swoops over and through the trees, sees green, blue, brown, hears the rustling and snapping of overgrown branches. Maybe you picked up this idea from the beginning of *Heart of Darkness*.
+
+But you're mistaken — you aren't imagining it correctly at all. That disembodied panoramic perspective distorts everything — who knows where you learned it. The eeriness and silence of an overgrown country, the speechless and seething vegetation — this all demands something else: a terrestrial spectator, someone lost in the woods, despairing, almost driven mad by survival's mute imperatives. Forget the aerial view, forget maps. Think of twilight in the boundless forest. There's nothing beautiful about your surroundings. All you can see are tree trunks, grasses, insects, adders, fertile mud. After weeks of walking you emerge from the woods and find you're at the coast. It's freezing cold. There's sand, saltwater, waves, and big white clouds. You stumble out of the trees and onto the beach. How would your lost self look after a month of wandering in the forest? Broken: sweating, shivering, hair matted, incapable of speech, incapable of keeping up an internal monologue. Maybe you're surprised by the sight of the sea and you laugh. A reaction, then, but no reflection.
+
+Leave it alone... try not to succumb to these fantasies lurking along country roads. Keep walking. Remember that the lives of plants and trees are weird and brutal. They don't even flinch when you cut their limbs off. Could you bear to be oppressed by so many of them?
