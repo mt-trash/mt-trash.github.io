@@ -5,7 +5,7 @@ date: 2016-03-03
 ---
 
 {% include image-no-link.html file="/images/gaddis-rapture.jpg" alt="gaddis-rapture.jpg" %}  
-*'The Coming Rapture' by Charles Anderson. The painting appears on the front of a postcard Gaddis sent to his friend John Aldridge in 1985*
+*'The Coming Rapture' by Charles Anderson. The painting appears on the front of a postcard Gaddis sent to his friend John Aldridge in 1985.*
 
 **Communication and Capitalism in William Gaddis’s *J R***
 
