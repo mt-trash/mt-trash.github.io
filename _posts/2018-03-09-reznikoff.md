@@ -53,29 +53,49 @@ It is therefore significant that in the original German text of the passage from
 The germ of a similar insight is present in Reznikoff’s autobiographical poem ‘Early History of a Writer’. In the sixteenth section of this poem he describes the years he spent studying law at New York University, where he
 
 >learned to probe beneath the facts of each case
+
 >for the living principle of law
+
 >and to trace it, if I could,
+
 >to the solid trunk from which it sprang;
+
 >confused as it all was to me at first,
+
 >I soon saw the law in its elements as a beautiful order
+
 >in which benefit balanced obligation
+
 >and nothing was without its reason — or reasons.
 
-But Reznikoff’s enthusiasm for this ‘beautiful order’ is gradually tempered by an awareness of the law’s formal limitations. Later in the poem he remembers sitting in a library, ‘memorizing | sentences that seemed meaty’, but finding himself at a conceptual and physical remove from real life:
+But Reznikoff’s enthusiasm for this ‘beautiful order’ is gradually tempered by an awareness of the law’s formal limitations. Later in the poem he remembers sitting in a library, ‘memorizing sentences that seemed meaty’, but finding himself at a conceptual and physical remove from real life:
 
 >The noise of the street was far away—
+
 >ten storeys below;
+
 >far away, too, the worry and noise of my parents’ shop;
+
 >before me was all that was left of eager argument and eager parties,
+
 >now merely names that might just as well have been,
+
 >and in the talk of the law students often were,
+
 >single letters in the alphabet:
+
 >all the blood—the heartache and the heartening—gone out of the words
+
 >and only, as a pattern for thinking,
+
 >the cool bones of the judge’s reasoning.
+
 >And I felt no regret for the glittering words I had played with
+
 >and only pleasure to be working with ideas—
+
 >of rights and wrongs and their elements
+
 >and of justice between men in their intricate affairs. (NSP 131)
 
 Reznikoff realises that the lived experiences of the ‘eager parties’ who appeal to the law are always partly lost or simplified in the process of their subjection to an increasingly objectified legal system. Indifferent to the particularity of individual legal subjects, positing them only as variables in a system of ‘benefit’ and ‘obligation’, the law threatens to transform itself into an automatic ‘pattern for thinking’. In the legal argumentation Reznikoff witnesses at NYU, the names of the people involved in each case are reduced to ‘single letters in the alphabet’ — like the parts of an algebraic equation — and the ‘blood’ of the original dispute gives way to the ‘cool bones of the judge’s reasoning’ — a metaphor that implies petrifaction and natural decay. As *Dialectic of Enlightenment* would have it, the ‘barren wisdom’ of this form of idealism
@@ -85,11 +105,17 @@ Reznikoff realises that the lived experiences of the ‘eager parties’ who app
 Any consideration of *Testimony* must therefore account for Reznikoff’s complex relationship to the language of the law: like Adorno and Horkheimer, he sees how the law’s language and structure tend to become impoverished, abstract, and mechanised, but he nevertheless uses that language as a model for his poetry. In the same section of ‘Early History of a Writer’ quoted above, Reznikoff remembers how he
 
 >found it delightful
+
 >to climb those green heights,
+
 >to bathe in the clear waters of reason,
+
 >to use words for their daylight meaning
+
 >and not as prisms
+
 >playing with the rainbows of connotation.
+
 >(NSP 130)
 
 He thus presents the precise, nonliterary language of legal rulings as an instrument designed to focus rather than refract meaning, a metaphor that recalls Zukofsky’s comparison between an Objectivist poem and a lens. But whereas Zukofsky often had recourse to these optical metaphors, Reznikoff almost always used the example of the constrained language of witness testimony whenever he was asked about his ‘Objectivist’ poetics. In an interview with L. S. Dembo in 1968 he defined an ‘Objectivist’ as a writer ‘restricted almost to the testimony of a witness in a court of law’, and then extended the comparison further:
