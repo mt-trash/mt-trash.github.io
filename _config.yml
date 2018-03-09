@@ -7,3 +7,5 @@ excerpt_separator: "<!-- more -->"
 permalink: pretty
 gems:
   - jekyll-sitemap
+kramdown:
+  parse_block_html: true
