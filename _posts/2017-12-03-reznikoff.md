@@ -4,6 +4,8 @@ title: Charles Reznikoff’s Objective Aesthetics
 date: 2017-12-03
 ---
 
+{% include image-no-link.html file="/images/reznikoff-sitting.jpg" alt="reznikoff-sitting.jpg" %}  
+
 **Representing History**
 
 Charles Reznikoff’s *Testimony* is an unusual literary work. An early example of the ‘conceptual’ or ‘uncreative’ writing lately practised by poets like Vanessa Place and Kenneth Goldsmith, it consists entirely of language culled from the law reports that Reznikoff read while he was working for the legal encyclopaedia Corpus Juris. The first edition of *Testimony* was published in 1934 by the Objectivist Press, but Reznikoff returned to the project in the 1960s and ‘70s and expanded it considerably: the second version of *Testimony*, eventually published in two volumes in 1978, contains more than four hundred cases and bears the subtitle United States (1885–1915): Recitative, thereby situating itself somewhere between chronicle and libretto. The 1934 version covers a slightly earlier period of history and is much shorter; it is also written in prose, whereas the later version makes use of line breaks, transforming the source material into blocks of austere free verse.
@@ -140,7 +142,7 @@ By taking the original National Reporter case history, which would have consiste
 These aestheticised details therefore point beyond the borders of the text to the objective social totality from which they emerge; they are ‘metonymic’ in the sense defined by Charles Bernstein in his essay on Reznikoff’s poetry, where he asks
 
 >what is the status of the detail, the particular in this work? Why is it so important? For Reznikoff, as for Williams, the detail is not a “luminous particular” in Pound’s sense — not extraordinary but exactly ordinary, even if indeed luminous. So, then, why this particular detail, and then that one?
-
+>
 >Metonymy: the fragment as substitute for, hinting at, something else, something that only it can stand for, is an instance of — a manifestation or emanation.
 
 The ordinariness of these fragments, which Bernstein emphasises here, is essential to their aesthetic and significative aspects. In opposition to the process of enlightenment, which threatens to sweep everything into a system of equivalence, each detail in Reznikoff’s text is ‘allowed to be identical to itself’ (DE 8). The system of probabilistic rationalisation which would classify things as either typical or exceptional, ordinary or extraordinary, is suspended: by presenting these details in the form of a work of art they are able to stand both for themselves (as objects of aesthetic contemplation) and for the objective totality from which they emanate.
