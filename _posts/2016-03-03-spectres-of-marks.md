@@ -14,11 +14,13 @@ It may be useful, then, to think about Jacques Derrida’s *Specters of Marx*, a
 
 All of which suggests that Gaddis is preoccupied with the *failures of communication* that proliferate due to capitalist dynamics. The theme develops as Gaddis considers the fates suffered by the other artists in the novel. The young composer Edward Bast is commissioned by a stockbroker, Crawley, to write music for a film Crawley has produced. When they meet to discuss Bast’s progress the conversation turns to the nature of composition, and whether the music is fully realised in the mind of the composer prior to it being performed:
 
->—Just tell me something, Bast. When you sit down to compose, do you hear this tumti tumti tum and then get it right down on paper? or . . .
->—Yes well that’s a little difficult to . . .
->—No no don’t try to explain it to me probably wouldn’t understand it if you did, prodigious Bast, prodigious, that grandeur we talked about I can almost feel it right here in my hands . . . and the case came up briefly—just the sheer bulk of it, spared nothing have you.
->—Yes well I felt you’d want it scored for full orchestra and of course dealing with ninety-five instruments is . . .
->—Each playing its part to fill the screen with the breath of life, to make us feel the vastness of the plains, the purple mountains’ majesty all down in these little hentracks.[^13]
+~~~
+—Just tell me something, Bast. When you sit down to compose, do you hear this tumti tumti tum and then get it right down on paper? or . . .
+—Yes well that’s a little difficult to . . .
+—No no don’t try to explain it to me probably wouldn’t understand it if you did, prodigious Bast, prodigious, that grandeur we talked about I can almost feel it right here in my hands . . . and the case came up briefly—just the sheer bulk of it, spared nothing have you.
+—Yes well I felt you’d want it scored for full orchestra and of course dealing with ninety-five instruments is . . .
+—Each playing its part to fill the screen with the breath of life, to make us feel the vastness of the plains, the purple mountains’ majesty all down in these little hentracks.[^13]
+~~~
 
 Crawley, insisting on a very limited idea of grandeur and ‘bulk’, has no access to the ideal, intangible form of Bast’s work, and no real interest in the abstract quality of music and the process of its composition, which involves a translation from subjectivity to notation and then to performance. By taking possession of the work in this scene Crawley literally objectifies it, marvelling at its physical form (both its heft and the visible complexity of the marks on the page), while confessing a complete incomprehension of its meaning. He can only envision its role in the completed commercial film, by which time it will already have been recorded to tape and reified. Crawley is not even particularly interested in the logistics of performing the composition: at the mention of the ninety-five instruments he leaps ahead to a vision of the work already recorded and set alongside the film. Bast’s composition is thus reduced to a dead artefact (the score) and a taped, infinitely reproducible performance. Towards the end of the novel Bast becomes more irritable about this, as he tells Eigen when he goes to collect another score he has written:
 
