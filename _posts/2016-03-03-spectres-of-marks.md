@@ -9,7 +9,7 @@ date: 2016-03-03
 
 **Communication and Capitalism in William Gaddis’s *J R***
 
-There are allusions to Marx and Marxism scattered throughout *J R*, William Gaddis’s second novel. At the dysfunctional school where much of the narrative takes place, the dedication engraved over the entrance reads ‘from each according to his ability, to each according to his needs’, the famous line from Marx's *Critique of the Gotha Program* (though in Gaddis’s text the motto is written in pseudo Greek lettering, which helps to conceal the reference from both the reader and the school’s administrators). It is said of one character, Stella Angel, that her surname ‘was changed from Engels, somewhere along the way’, suggesting a possible ancestral link with Marx’s collaborator Friedrich Engels. A quotation from Lenin (‘Who uses whom?’) appears in the notes for Jack Gibbs’s unfinished book. Gibbs also mentions Karl Marx in connection with the motto adorning the school (which turns out to have been the handiwork of his friend, an artist called Schepperman), but the only other appearance of Marx’s name in the text of *J R* takes the form of a pun, when a woman using a payphone in a cafeteria answers a call for ‘Mister Marks’.
+There are allusions to Marx and Marxism scattered throughout *J R*, William Gaddis’s second novel. At the dysfunctional school where much of the narrative takes place, the dedication engraved over the entrance reads ‘from each according to his ability, to each according to his needs’, the famous line from Marx's *Critique of the Gotha Program* (though in Gaddis’s text the motto is written in pseudo Greek lettering, which helps to conceal the reference from both the reader and the school’s administrators).[^1] It is said of one character, Stella Angel, that her surname ‘was changed from Engels, somewhere along the way’, suggesting a possible ancestral link with Marx’s collaborator Friedrich Engels. A quotation from Lenin (‘Who uses whom?’) appears in the notes for Jack Gibbs’s unfinished book. Gibbs also mentions Karl Marx in connection with the motto adorning the school (which turns out to have been the handiwork of his friend, an artist called Schepperman), but the only other appearance of Marx’s name in the text of *J R* takes the form of a pun, when a woman using a payphone in a cafeteria answers a call for ‘Mister Marks’.
 
 So: with the exception of the quotation from Lenin, these references to Marx and Marxism are comic, ridiculous, maybe even flippant; they're funny because they don't amount to much more than a few superficial traces of a utopian left-wing tradition which is otherwise absent from the consummately capitalist world of the novel; yet in this mercenary, post-McCarthyite setting even these harmless echoes of anti-capitalist sentiment can sound to some characters 'crazy dangerous [and] subversive'. The effect is tragicomic: the disproportionate outrage which the name 'Marx' threatens to provoke only demonstrates the mindless rigour with which these revolutionary tendencies have been extinguished. Nevertheless, these references do not necessarily announce a Marxist commitment on the part of Gaddis or his novel; rather they are ‘marks’, part of the system of signs, names, and jokes that make up this postmodern literary text. The principal theme of *J R* may be capitalism in the United States, but Gaddis does not mount an attack on the mode of production in its totality, and instead tends to focus on circulation (particularly the world of finance) without delving too much into production (wage labour and the production of surplus value). The novel's critique is unsystematic: Gaddis is less interested in the nuances of proximate and root causes than in capitalism's effects — for instance, the way privatisation begins to erode the school's curriculum, or the role of multinational corporations in the destruction of nations in southern and central Africa.
 
@@ -58,3 +58,31 @@ In this scene and others located at Typhon International, Gaddis shows how techn
 >The basis of their talks was a collection of working papers prepared by Belgian experts. The Congolese had not the experience to recognize the glaring omissions in them, the absence of certain vital information, just as they had no way of knowing the various secret financial and other agreements which had been made between the Belgian government and some of its allies, and between Belgian financial bodies and other European and American business concerns.
 
 Aporias, omissions, and indeterminacy inevitably become the sites of dispossession in a system of distributed, symbolised ownership. Ironically, this critique of capitalism in *J R* reveals that ‘Marks’ – language, writing – are the false friends of the exploited. In this respect Gaddis’s novel has something in common with Jean Baudrillard’s influential work *For a Critique of the Political Economy of the Sign*, which claims to demonstrate the mutually sustaining relationship between ‘the code’ (language, sign and signified, and by extension the symbolic part of ideology) and the social forms particular to capitalism, notably the divergence between use value and exchange value. Gaddis’s critique may be unsystematic, then, but it captures the spirit of Western academic antipathy to capitalism that prevailed after 1968, a spirit inclined against symbolic structures first and foremost and material economic ones only secondarily.
+
+[1]: William Gaddis, *J R* (London: Atlantic Books, 2003), p. 20.
+[2]: Gaddis, p. 4.
+[3]: Gaddis, p. 486.
+[4]: Gaddis, p. 409; p. 115.
+[5]: Gaddis, p. 456.
+[6]: Jacques Derrida, *Specters of Marx: The State of the Debt, the Work of Mourning, and the New International*, trans. by Peggy Kamuf (London: Routledge, 1994), p. 107.
+[7]: Derrida, p. 110.
+[8]: Karl Marx, *Grundrisse*, trans. by Martin Nicolaus (London: Penguin, 1973), p. 162.
+[9]: Marx, p. 162.
+[10]: Gaddis, p. 427.
+[11]: Gaddis, p. 409.
+[12]: Marx, p. 455.
+[13]: Gaddis, p. 439.
+[14]: Gaddis, p. 572.
+[15]: Gaddis, p. 276.
+[16]: Gaddis, p. 474.
+[17]: Mark C. Taylor, *Confidence Games: Money and Markets in a World without Redemption* (Chicago: University of Chicago Press, 2004), p. 25.
+[18]: Taylor, p. 128.
+[19]: Nicholas Spencer, ‘Critical Mimesis: J R’s Transition to Postmodernity’, in *Paper Empire: William Gaddis and the World System*, ed. by Joseph Tabbi and Rone Shavers (Alabama: The University of Alabama Press, 2007), pp. 137–150 (p. 138).
+[20]: Spencer, p. 145.
+[21]: Spencer, p. 145.
+[22]: George Cotkin, ‘William James and the Cash-Value Metaphor’, *ETC*, 42 (1985), 37–46.
+[23]: Gaddis, p. 428.
+[24]: Gaddis, p. 96.
+[25]: Ludwig Wittgenstein, *Tractatus Logico-Philosophicus*, trans. by D. F. Pears and B. F. McGuinness, rev. edn (London: Routledge, 2001), p. 89.
+[26]: Thomas Kanza, *The Rise and Fall of Patrice Lumumba: Conflict in the Congo*, 2nd edn (London: Rex Collings, 1978), p. 84.
+[27]: Jean Baudrillard, *For a Critique of the Political Economy of the Sign*, trans. by Charles Levin (St. Louis: Telos Press, 1981), p. 170.
