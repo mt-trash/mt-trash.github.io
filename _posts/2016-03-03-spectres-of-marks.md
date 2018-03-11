@@ -48,7 +48,7 @@ The basis of their talks was a collection of working papers prepared by Belgian 
 
 Aporias, omissions, and indeterminacy inevitably become the sites of dispossession in a system of distributed, symbolised ownership. Ironically, this critique of capitalism in *J R* reveals that ‘Marks’ – language, writing – are the false friends of the exploited. In this respect Gaddis’s novel has something in common with Jean Baudrillard’s influential work *For a Critique of the Political Economy of the Sign*, which claims to demonstrate the mutually sustaining relationship between ‘the code’ (language, sign and signified, and by extension the symbolic part of ideology) and the social forms particular to capitalism, notably the divergence between use value and exchange value.[^27] Gaddis’s critique may be unsystematic, then, but it captures the spirit of Western academic antipathy to capitalism that prevailed after 1968, a spirit inclined against symbolic structures first and foremost and material economic ones only secondarily.
 
-
+---
 
 [^1]: William Gaddis, *J R* (London: Atlantic Books, 2003), p. 20.
 [^2]: Gaddis, p. 4.
