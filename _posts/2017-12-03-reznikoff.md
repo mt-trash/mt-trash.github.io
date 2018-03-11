@@ -8,7 +8,7 @@ date: 2017-12-03
 
 **Representing History**
 
-Charles Reznikoff’s *Testimony* is an unusual literary work. An early example of the ‘conceptual’ or ‘uncreative’ writing lately practised by poets like Vanessa Place and Kenneth Goldsmith, it consists entirely of language culled from the law reports that Reznikoff read while he was working for the legal encyclopaedia *Corpus Juris*. The first edition of *Testimony* was published in 1934 by the Objectivist Press, but Reznikoff returned to the project in the 1960s and ‘70s and expanded it considerably: the second version of *Testimony*, eventually published in two volumes in 1978, contains more than four hundred cases and bears the subtitle United States (1885–1915): Recitative, thereby situating itself somewhere between chronicle and libretto. The 1934 version covers a slightly earlier period of history and is much shorter; it is also written in prose, whereas the later version makes use of line breaks, transforming the source material into blocks of austere free verse.
+Charles Reznikoff’s *Testimony* is an unusual literary work. An early example of the ‘conceptual’ or ‘uncreative’ writing lately practised by poets like Vanessa Place and Kenneth Goldsmith, it consists entirely of language culled from the law reports that Reznikoff read while he was working for the legal encyclopaedia *Corpus Juris*.[^*] The first edition of *Testimony* was published in 1934 by the Objectivist Press, but Reznikoff returned to the project in the 1960s and ‘70s and expanded it considerably: the second version of *Testimony*, eventually published in two volumes in 1978, contains more than four hundred cases and bears the subtitle *United States (1885–1915): Recitative*, thereby situating itself somewhere between chronicle and libretto. The 1934 version covers a slightly earlier period of history and is much shorter; it is also written in prose, whereas the later version makes use of line breaks, transforming the source material into blocks of austere free verse.
 
 Reznikoff’s job at *Corpus Juris* was to look through old volumes of the West Publishing Company’s National Reporter System, a nearly exhaustive record of all the cases brought before federal and appellate state courts since 1789, and then to write short, compressed accounts of rulings with precedential value. The numbered sections of *Testimony* are the negative image of the entries in *Corpus Juris*: Reznikoff never includes the details of any judgement — the mechanisms of the court are almost completely absent from the pages of *Testimony* — and all the sordid, bloody details omitted from the legal encyclopaedia instead become the focus of his text. The following ‘case’, from the section titled ‘Southerners and Slaves’, is fairly typical of the work as a whole:
 
@@ -189,3 +189,39 @@ However, it should be borne in mind that any interpretation of *Testimony* which
 >Mankind, which in Homer's time was an object of contemplation for the Olympian gods, now is one for itself. Its self-alienation has reached such a degree that it can experience its own destruction as an aesthetic pleasure of the first order.
 
 If *Testimony* is prevented from turning into an instance of this extreme self-alienation, it is probably because of the ‘vein of sympathy’ which runs through it, as Burke suggests in his introduction. Still, it is interesting to note that the aesthetic pleasure afforded by *Testimony* never amounts to an endorsement of the destructive system from which the text derives; rather, those moments of aesthetic pleasure always coincide with the disenchantment of that objective system and its appearance as something oppressive and reductive. Even at its most objective and disinterested, then, the language of Reznikoff’s documentary poetry contains a critical impetus.
+
+---
+
+[^1] Kenneth Goldsmith, ‘Why Conceptual Writing? Why Now?’, in Against Expression: An Anthology of Conceptual Writing, ed. by Craig Dworkin and Kenneth Goldsmith (Evanston, IL: Northwestern University Press, 2011), pp. xvii–xxii (p. xxi); Milton Hindus, ‘Epic, “Action-Poem”, Cartoon: Charles Reznikoff’s Testimony: The United States: 1885–1915’, in Charles Reznikoff: Man and Poet, ed. by Milton Hindus (Orono, ME: National Poetry Foundation, 1984), pp. 309–324 (p. 323).
+[^2] Charles Reznikoff, Testimony, ed. by Justin Parks, in Testimony: The United States (1885–1915): Recitative (Boston: Black Sparrow, 2015), pp. 517–582 (p. 539). Further references to pages in this edition are given in the text.
+[^3] Zukofsky, ‘Program: “Objectivists”’, p. 268.
+[^4] Simon Cooper, ‘Handmade by Poverty: Worker Correspondence, Objectivist Poetics and the Pathos of the Readymade’, Journal of American Studies, 50 (2016), 1089–1107; Rocco Marinaccio, ‘“The Sight to See and the Will to Do”: Charles Reznikoff and the Poetics of Exposure’, Literature Interpretation Theory, 17 (2006), 105–135.
+[^5] Michael Davidson, ‘“Not Sappho, Sacco”: Postmodern Narratives/Modernist Forms in Muriel Rukeyser and Charles Reznikoff’, in Ghostlier Demarcations (Los Angeles and London: University of California Press, 1997), pp. 135–170 (p. 138).
+[^6] Davidson, pp. 168–169.
+[^7] Vescia, Depression Glass (London and New York: Routledge, 2006), p. 55.
+[^8] Kathryn Shevelow, ‘History and Objectification in Charles Reznikoff’s Documentary Poems, Testimony and Holocaust’, Sagetrieb, 1.2 (1982), 290–306 (p. 291).
+[^9] Shevelow, p. 291.
+[^10] Kenneth Burke, ‘The Matter of the Document’, in Testimony: The United States (1885–1915): Recitative (Boston: Black Sparrow, 2015), pp. 533–536 (p. 536).
+[^11] Vescia, p. 32.
+[^12] George Szirtes, ‘Introduction’, in Holocaust (Nottingham: Five Leaves, 2010), pp. 7–10 (pp. 9–10).
+[^13] Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment: Philosophical Fragments, ed. by Gunzelin Schmid Noerr, trans. by Edmund Jephcott (Stanford, CA: Stanford University Press, 2002), p. 4. Further references to pages in this edition are given in the text.
+[^14] Etienne Balibar, The Philosophy of Marx, trans. by Chris Turner (London: Verso, 2014), p. 72.
+[^15] Dialektik der Aufklärung: Philosophische Fragmente, in Adorno, Gesammelte Schriften, ed. by Rolf Tiedemann, 20 vols (Frankfurt a.M.: Suhrkamp, 1973–1986), III (1981), p. 77.
+[^16] Adorno, History and Freedom: Lectures 1964–65, trans. by Rodney Livingstone, ed. by Rolf Tiedemann (Cambridge: Polity, 2006), p. 296.
+[^17] Adorno, Against Epistemology, p. 26.
+[^18] Walter Benjamin, ‘Capitalism as Religion’, trans. by Harry Zohn, in Selected Writings, Volume 1: 1913–1926, ed. by Marcus Bullock and Michael W. Jennings (Cambridge, MA: Harvard University Press, 1996), pp. 288–291 (p. 260).
+[^19] Reznikoff, ‘Early History of a Writer’, in By the Well of Living and Seeing: New and Selected Poems: 1918–1973, ed. by Seamus Cooney (Los Angeles: Black Sparrow, 1974), pp. 120–140 (pp. 129–130). Further references to pages in this edition are given in the text.
+[^20] Dembo, ‘Charles Reznikoff’, Contemporary Literature, 10.2 (Spring 1969), 193–202 (pp. 194–195).
+[^21] Charles Bernstein, ‘Reznikoff’s Nearness’, in My Way: Speeches and Poems (Chicago and London: University of Chicago Press, 1999), pp. 197–228 (p. 213).
+[^22] Davidson, ‘“Not Sappho, Sacco”’, p. 166.
+[^23] Adorno, Minima Moralia: Reflections from Damaged Life, trans. by E. F. N. Jephcott (London: Verso, 2005), p. 224.
+[^24] Minima Moralia, p. 225.
+[^25] Minima Moralia, p. 225.
+[^26] Minima Moralia, p. 224.
+[^27] Minima Moralia, pp. 224–225.
+[^28] Minima Moralia, p. 225.
+[^29] Marx, Grundrisse, trans. by Martin Nicolaus (London: Pelican, 1973; repr. London: Penguin, 1993), p. 83; Capital: Volume 1, trans. by Ben Fowkes (London: Pelican, 1976; repr. London: Penguin, 1990), p. 169.
+[^30] Aesthetic Theory, p. 385.
+[^31] Aesthetic Theory, p. 385.
+[^32] Walter Benjamin, ‘The Work of Art in the Age of Mechanical Reproduction’, in Illuminations, ed. by Hannah Arendt, trans. by Harry Zohn (London: Pimlico, 1999), pp. 211–244 (p. 242).
+[^33] Burton Hatlen and Tom Mandel, ‘Poetry and Politics: A Conversation with George and Mary Oppen’, in George Oppen: Man and Poet, ed. by Burton Hatlen (Orono, ME: National Poetry Foundation, 1981), pp. 23–50 (pp. 28–29).
