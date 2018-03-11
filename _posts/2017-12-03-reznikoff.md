@@ -4,7 +4,7 @@ title: Charles Reznikoff’s Objective Aesthetics
 date: 2017-12-03
 ---
 
-{% include image-no-link.html file="/images/reznikoff-sitting.jpg" alt="reznikoff-sitting.jpg" %}  
+{% include image-no-link.html file="/images/reznikoff-window.jpg" alt="reznikoff-window.jpg" %}  
 
 **Representing History**
 
