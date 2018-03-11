@@ -102,7 +102,7 @@ But Reznikoff’s enthusiasm for this ‘beautiful order’ is gradually tempere
 
 Reznikoff realises that the lived experiences of the ‘eager parties’ who appeal to the law are always partly lost or simplified in the process of their subjection to an increasingly objectified legal system. Indifferent to the particularity of individual legal subjects, positing them only as variables in a system of ‘benefit’ and ‘obligation’, the law threatens to transform itself into an automatic ‘pattern for thinking’. In the legal argumentation Reznikoff witnesses at NYU, the names of the people involved in each case are reduced to ‘single letters in the alphabet’ — like the parts of an algebraic equation — and the ‘blood’ of the original dispute gives way to the ‘cool bones of the judge’s reasoning’ — a metaphor that implies petrifaction and natural decay. As *Dialectic of Enlightenment* would have it, the ‘barren wisdom’ of this form of idealism
 
->incessantly reinstates what always was. Whatever might be different is made the same. That is the verdict which critically sets the boundaries to possible experience. The identity of everything with everything is bought at the cost that nothing can at the same time be identical to itself. (DE 8)
+>incessantly reinstates what always was. Whatever might be different is made the same. That is the verdict which critically sets the boundaries to possible experience. The identity of everything with everything is bought at the cost that nothing can at the same time be identical to itself. (*DE* 8)
 
 Any consideration of *Testimony* must therefore account for Reznikoff’s complex relationship to the language of the law: like Adorno and Horkheimer, he sees how the law’s language and structure tend to become impoverished, abstract, and mechanised, but he nevertheless uses that language as a model for his poetry. In the same section of ‘Early History of a Writer’ quoted above, Reznikoff remembers how he
 
@@ -126,7 +126,7 @@ He thus presents the precise, nonliterary language of legal rulings as an instru
 
 In Objectivist writing, then, judgement is suspended so that it can be induced more forcefully by the bare presentation of factual particulars. This much has already been said by those critics discussed earlier, like Davidson and Vescia, who claim that Reznikoff’s dispassionate style serves an instructive, moral purpose. However, what is most interesting about Reznikoff’s analogy is the way it moves back and forth between legal judgements and aesthetic judgements. The implications of the shift from one type of judgement to the other become fully apparent in *Testimony*. When Reznikoff transposes impoverished legal language out of the field of mechanised law and into the realm of poetry, this transposition allows for the reappearance of all the historical particulars that the legal apparatus treats as incidental and insignificant. Crucially, this revivification of incidental facts is an aesthetic activity, and not simply a morally instructive one. In fact it is identical with the process described in *Dialectic of Enlightenment*: 
 
->For the Enlightenment, anything which cannot be resolved into numbers, and ultimately into one, is illusion; modern positivism consigns it to poetry. (DE 4)
+>For the Enlightenment, anything which cannot be resolved into numbers, and ultimately into one, is illusion; modern positivism consigns it to poetry. (*DE* 4)
 
 
 **Unlawful Aesthetics**
@@ -135,7 +135,7 @@ The fragmentary stories and sketches in *Testimony* vary in length from several 
 
 >Ranty went through the marsh barefoot so as not to show his tracks. He stepped from turf to turf. Jim walked behind him stepping in his prints until they came to the “piney” woods.
 >
->When Jim was put in jail he dreamed a dream, and then he knew he would be hanged. He dreamed that his two hands were tied together, and were on fire; there was a book hung before them — it had a leather cover just like the one they swore him on at the trial — the book caught fire and all the leaves were burning. (T 540–541)
+>When Jim was put in jail he dreamed a dream, and then he knew he would be hanged. He dreamed that his two hands were tied together, and were on fire; there was a book hung before them — it had a leather cover just like the one they swore him on at the trial — the book caught fire and all the leaves were burning. (*T* 540–541)
 
 By taking the original National Reporter case history, which would have consisted mostly of direct and reported speech, and editing out all its speech tags, explanatory interpolations, and references to the legal process, Reznikoff produces a spare, third-person account full of interesting details pertaining to the geography and economy of the US. The marshlands are evoked using only a few simple details: the ‘turf’ which Ranty imagines will conceal his footprints (but in fact do not, since Jim walks behind him ‘stepping in his prints’), and the ‘piney’ woods, this last adjective appearing in quotation marks to indicate that it is the witness’s own idiosyncratic term. The environment thus appears as something lived in and experienced by Jim and Ranty, a space through which they move and of which they speak. Jim’s dream also becomes interesting once it is freed from its evidential role: its simple symbolism manages to convey something of the fatalism and religiosity bound up with crime and punishment in the US. This is not simply a function of the imagery and language Jim uses in the original transcript, but an effect produced by Reznikoff’s editing: by omitting the judge’s verdict and ending the vignette with Jim’s premonition Reznikoff pushes the secular law into the background and brings the older religious one to the fore. The use of the Bible in court also reminds us that the religious concepts of fate and predestination are imbricated with the newer system of disenchanted rationality.
 
@@ -145,11 +145,11 @@ These aestheticised details therefore point beyond the borders of the text to th
 >
 >Metonymy: the fragment as substitute for, hinting at, something else, something that only it can stand for, is an instance of — a manifestation or emanation.[^21]
 
-The ordinariness of these fragments, which Bernstein emphasises here, is essential to their aesthetic and significative aspects. In opposition to the process of enlightenment, which threatens to sweep everything into a system of equivalence, each detail in Reznikoff’s text is ‘allowed to be identical to itself’ (DE 8). The system of probabilistic rationalisation which would classify things as either typical or exceptional, ordinary or extraordinary, is suspended: by presenting these details in the form of a work of art they are able to stand both for themselves (as objects of aesthetic contemplation) and for the objective totality from which they emanate.
+The ordinariness of these fragments, which Bernstein emphasises here, is essential to their aesthetic and significative aspects. In opposition to the process of enlightenment, which threatens to sweep everything into a system of equivalence, each detail in Reznikoff’s text is ‘allowed to be identical to itself’ (*DE* 8). The system of probabilistic rationalisation which would classify things as either typical or exceptional, ordinary or extraordinary, is suspended: by presenting these details in the form of a work of art they are able to stand both for themselves (as objects of aesthetic contemplation) and for the objective totality from which they emanate.
 
 Throughout *Testimony* this metonymic relationship between part and whole always underpins the text’s most obviously literary passages. For example, there is a long section in the second part of *Testimony* titled ‘Rivers and Ships, Harbors and Ports’ which does not describe any major crime or accident but instead lists the names of ships, their captains and passengers, their cargo, and their destinations, and then includes some descriptions of these destinations and the changes in the weather. This evocative stream of nautical names and terms is one of the longest sections in the book, and most of it reads like poetry:
 
->Rattlesnake Shoal, Pelican Shoals, Flapjack Reef; the ship aground all of the night, chafing and grating upon the sand, the weather dark, threatening to be worse, dark and stormy, spitting rain; the schooner under full sail with a fair wind running upon a bar of mud in Mobile Bay, thumping upon the bar heavily, the water calm but a very heavy surf […] (T 570)
+>Rattlesnake Shoal, Pelican Shoals, Flapjack Reef; the ship aground all of the night, chafing and grating upon the sand, the weather dark, threatening to be worse, dark and stormy, spitting rain; the schooner under full sail with a fair wind running upon a bar of mud in Mobile Bay, thumping upon the bar heavily, the water calm but a very heavy surf […] (*T* 570)
 
 It is difficult to assess whether Reznikoff has embellished any of this language: by including it in *Testimony* he presents it as a collage of words and names taken directly from other sources, but it ends up sounding lyrical, taking on the form of a ‘Whitmanian catalog’, as Davidson notes.[^22] Thus the conventionally literary aspects of *Testimony* become more overt the less the ordering principles of the law are preserved in the translation from document to poem.
 	
@@ -175,7 +175,7 @@ The two hundred dollars’ worth of wool for which ‘Dutch John’ is killed, w
 
 This interpretation certainly helps to explain the strangely sublime effect produced by those passages of *Testimony* which describe inhospitable environments and dire working conditions. Consider the following vignette:
 
->The Arab was bound for Desolation Island to take sea-elephant or walrus oil. The sea-elephants were killed by spears here and there on the island. The blubber was taken from the animals wherever killed and carried by the men on their backs over blocks of ice to their hut on the shore to be tried into oil. The land was one of fog and clouds, snow and ice; they saw the sun seldom, and upon the sea on all sides the floating ice. (T 560)
+>The Arab was bound for Desolation Island to take sea-elephant or walrus oil. The sea-elephants were killed by spears here and there on the island. The blubber was taken from the animals wherever killed and carried by the men on their backs over blocks of ice to their hut on the shore to be tried into oil. The land was one of fog and clouds, snow and ice; they saw the sun seldom, and upon the sea on all sides the floating ice. (*T* 560)
 
 As in ‘Rivers and Ships, Harbors and Ports’, Reznikoff’s editing gives as much weight to the details of the environment as to the people in it. All the activities are described in the passive voice; Reznikoff foregrounds the tools (‘spears’, the ‘hut’) and the landscape (the ‘shore’, the ‘blocks of ice’), component parts of a harsh objective reality which overdetermines the activities of the men surrounded ‘on all sides’ — surrounded, that is, not only by the water and ice but by a system of economic necessity and compulsion. The scene is definitely not a ‘Robinsonade’ (in Marx’s sense of the term): it refutes those economic tracts in which the bourgeois individual’s wealth appears as the result of an asocial industriousness and parsimony.[^29] Instead, the world of *Testimony* is one in which forms of labour are socially determined by a system replete with coercion, impoverishment, and ‘Desolation’.
 
@@ -192,35 +192,35 @@ If *Testimony* is prevented from turning into an instance of this extreme self-a
 
 ---
 
-[^1]: Kenneth Goldsmith, ‘Why Conceptual Writing? Why Now?’, in Against Expression: An Anthology of Conceptual Writing, ed. by Craig Dworkin and Kenneth Goldsmith (Evanston, IL: Northwestern University Press, 2011), pp. xvii–xxii (p. xxi); Milton Hindus, ‘Epic, “Action-Poem”, Cartoon: Charles Reznikoff’s Testimony: The United States: 1885–1915’, in Charles Reznikoff: Man and Poet, ed. by Milton Hindus (Orono, ME: National Poetry Foundation, 1984), pp. 309–324 (p. 323).
-[^2]: Charles Reznikoff, Testimony, ed. by Justin Parks, in Testimony: The United States (1885–1915): Recitative (Boston: Black Sparrow, 2015), pp. 517–582 (p. 539). Further references to pages in this edition are given in the text.
-[^3]: Zukofsky, ‘Program: “Objectivists”’, p. 268.
-[^4]: Simon Cooper, ‘Handmade by Poverty: Worker Correspondence, Objectivist Poetics and the Pathos of the Readymade’, Journal of American Studies, 50 (2016), 1089–1107; Rocco Marinaccio, ‘“The Sight to See and the Will to Do”: Charles Reznikoff and the Poetics of Exposure’, Literature Interpretation Theory, 17 (2006), 105–135.
-[^5]: Michael Davidson, ‘“Not Sappho, Sacco”: Postmodern Narratives/Modernist Forms in Muriel Rukeyser and Charles Reznikoff’, in Ghostlier Demarcations (Los Angeles and London: University of California Press, 1997), pp. 135–170 (p. 138).
+[^1]: Kenneth Goldsmith, ‘Why Conceptual Writing? Why Now?’, in *Against Expression: An Anthology of Conceptual Writing*, ed. by Craig Dworkin and Kenneth Goldsmith (Evanston, IL: Northwestern University Press, 2011), pp. xvii–xxii (p. xxi); Milton Hindus, ‘Epic, “Action-Poem”, Cartoon: Charles Reznikoff’s Testimony: The United States: 1885–1915’, in *Charles Reznikoff: Man and Poet*, ed. by Milton Hindus (Orono, ME: National Poetry Foundation, 1984), pp. 309–324 (p. 323).
+[^2]: Charles Reznikoff, *Testimony*, ed. by Justin Parks, in *Testimony: The United States (1885–1915): Recitative* (Boston: Black Sparrow, 2015), pp. 517–582 (p. 539). Further references to pages in this edition are given in the text.
+[^3]: Louis Zukofsky, ‘Program: “Objectivists” 1931’, *Poetry: A Magazine of Verse*, February 1931, pp. 268–272 (p. 268).
+[^4]: Simon Cooper, ‘Handmade by Poverty: Worker Correspondence, Objectivist Poetics and the Pathos of the Readymade’, *Journal of American Studies*, 50 (2016), 1089–1107; Rocco Marinaccio, ‘“The Sight to See and the Will to Do”: Charles Reznikoff and the Poetics of Exposure’, *Literature Interpretation Theory*, 17 (2006), 105–135.
+[^5]: Michael Davidson, ‘“Not Sappho, Sacco”: Postmodern Narratives/Modernist Forms in Muriel Rukeyser and Charles Reznikoff’, in *Ghostlier Demarcations* (Los Angeles and London: University of California Press, 1997), pp. 135–170 (p. 138).
 [^6]: Davidson, pp. 168–169.
-[^7]: Vescia, Depression Glass (London and New York: Routledge, 2006), p. 55.
-[^8]: Kathryn Shevelow, ‘History and Objectification in Charles Reznikoff’s Documentary Poems, Testimony and Holocaust’, Sagetrieb, 1.2 (1982), 290–306 (p. 291).
+[^7]: Vescia, *Depression Glass* (London and New York: Routledge, 2006), p. 55.
+[^8]: Kathryn Shevelow, ‘History and Objectification in Charles Reznikoff’s Documentary Poems, Testimony and Holocaust’, *Sagetrieb*, 1.2 (1982), 290–306 (p. 291).
 [^9]: Shevelow, p. 291.
-[^10]: Kenneth Burke, ‘The Matter of the Document’, in Testimony: The United States (1885–1915): Recitative (Boston: Black Sparrow, 2015), pp. 533–536 (p. 536).
+[^10]: Kenneth Burke, ‘The Matter of the Document’, in *Testimony: The United States (1885–1915): Recitative* (Boston: Black Sparrow, 2015), pp. 533–536 (p. 536).
 [^11]: Vescia, p. 32.
-[^12]: George Szirtes, ‘Introduction’, in Holocaust (Nottingham: Five Leaves, 2010), pp. 7–10 (pp. 9–10).
-[^13]: Theodor Adorno and Max Horkheimer, Dialectic of Enlightenment: Philosophical Fragments, ed. by Gunzelin Schmid Noerr, trans. by Edmund Jephcott (Stanford, CA: Stanford University Press, 2002), p. 4. Further references to pages in this edition are given in the text.
-[^14]: Etienne Balibar, The Philosophy of Marx, trans. by Chris Turner (London: Verso, 2014), p. 72.
-[^15]: Dialektik der Aufklärung: Philosophische Fragmente, in Adorno, Gesammelte Schriften, ed. by Rolf Tiedemann, 20 vols (Frankfurt a.M.: Suhrkamp, 1973–1986), III (1981), p. 77.
-[^16]: Adorno, History and Freedom: Lectures 1964–65, trans. by Rodney Livingstone, ed. by Rolf Tiedemann (Cambridge: Polity, 2006), p. 296.
-[^17]: Adorno, Against Epistemology, p. 26.
-[^18]: Walter Benjamin, ‘Capitalism as Religion’, trans. by Harry Zohn, in Selected Writings, Volume 1: 1913–1926, ed. by Marcus Bullock and Michael W. Jennings (Cambridge, MA: Harvard University Press, 1996), pp. 288–291 (p. 260).
-[^19]: Reznikoff, ‘Early History of a Writer’, in By the Well of Living and Seeing: New and Selected Poems: 1918–1973, ed. by Seamus Cooney (Los Angeles: Black Sparrow, 1974), pp. 120–140 (pp. 129–130). Further references to pages in this edition are given in the text.
-[^20]: Dembo, ‘Charles Reznikoff’, Contemporary Literature, 10.2 (Spring 1969), 193–202 (pp. 194–195).
-[^21]: Charles Bernstein, ‘Reznikoff’s Nearness’, in My Way: Speeches and Poems (Chicago and London: University of Chicago Press, 1999), pp. 197–228 (p. 213).
+[^12]: George Szirtes, ‘Introduction’, in *Holocaust* (Nottingham: Five Leaves, 2010), pp. 7–10 (pp. 9–10).
+[^13]: Theodor Adorno and Max Horkheimer, *Dialectic of Enlightenment: Philosophical Fragments*, ed. by Gunzelin Schmid Noerr, trans. by Edmund Jephcott (Stanford, CA: Stanford University Press, 2002), p. 4. Further references to pages in this edition are given in the text.
+[^14]: Etienne Balibar, *The Philosophy of Marx*, trans. by Chris Turner (London: Verso, 2014), p. 72.
+[^15]: *Dialektik der Aufklärung: Philosophische Fragmente*, in Adorno, *Gesammelte Schriften*, ed. by Rolf Tiedemann, 20 vols (Frankfurt a.M.: Suhrkamp, 1973–1986), III (1981), p. 77.
+[^16]: Adorno, *History and Freedom: Lectures 1964–65*, trans. by Rodney Livingstone, ed. by Rolf Tiedemann (Cambridge: Polity, 2006), p. 296.
+[^17]: Adorno, *Against Epistemology*, p. 26.
+[^18]: Walter Benjamin, ‘Capitalism as Religion’, trans. by Harry Zohn, in *Selected Writings, Volume 1: 1913–1926*, ed. by Marcus Bullock and Michael W. Jennings (Cambridge, MA: Harvard University Press, 1996), pp. 288–291 (p. 260).
+[^19]: Reznikoff, ‘Early History of a Writer’, in *By the Well of Living and Seeing: New and Selected Poems: 1918–1973*, ed. by Seamus Cooney (Los Angeles: Black Sparrow, 1974), pp. 120–140 (pp. 129–130). Further references to pages in this edition are given in the text.
+[^20]: Dembo, ‘Charles Reznikoff’, *Contemporary Literature*, 10.2 (Spring 1969), 193–202 (pp. 194–195).
+[^21]: Charles Bernstein, ‘Reznikoff’s Nearness’, in *My Way: Speeches and Poems* (Chicago and London: University of Chicago Press, 1999), pp. 197–228 (p. 213).
 [^22]: Davidson, ‘“Not Sappho, Sacco”’, p. 166.
-[^23]: Adorno, Minima Moralia: Reflections from Damaged Life, trans. by E. F. N. Jephcott (London: Verso, 2005), p. 224.
-[^24]: Minima Moralia, p. 225.
-[^25]: Minima Moralia, p. 225.
-[^26]: Minima Moralia, p. 224.
-[^27]: Minima Moralia, pp. 224–225.
-[^28]: Minima Moralia, p. 225.
-[^29]: Marx, Grundrisse, trans. by Martin Nicolaus (London: Pelican, 1973; repr. London: Penguin, 1993), p. 83; Capital: Volume 1, trans. by Ben Fowkes (London: Pelican, 1976; repr. London: Penguin, 1990), p. 169.
-[^30]: Aesthetic Theory, p. 385.
-[^31]: Aesthetic Theory, p. 385.
-[^32]: Walter Benjamin, ‘The Work of Art in the Age of Mechanical Reproduction’, in Illuminations, ed. by Hannah Arendt, trans. by Harry Zohn (London: Pimlico, 1999), pp. 211–244 (p. 242).
+[^23]: Adorno, *Minima Moralia: Reflections from Damaged Life*, trans. by E. F. N. Jephcott (London: Verso, 2005), p. 224.
+[^24]: *Minima Moralia*, p. 225.
+[^25]: *Minima Moralia*, p. 225.
+[^26]: *Minima Moralia*, p. 224.
+[^27]: *Minima Moralia*, pp. 224–225.
+[^28]: *Minima Moralia*, p. 225.
+[^29]: Marx, *Grundrisse*, trans. by Martin Nicolaus (London: Pelican, 1973; repr. London: Penguin, 1993), p. 83; Capital: Volume 1, trans. by Ben Fowkes (London: Pelican, 1976; repr. London: Penguin, 1990), p. 169.
+[^30]: *Aesthetic Theory*, p. 385.
+[^31]: *Aesthetic Theory*, p. 385.
+[^32]: Walter Benjamin, ‘The Work of Art in the Age of Mechanical Reproduction’, in *Illuminations*, ed. by Hannah Arendt, trans. by Harry Zohn (London: Pimlico, 1999), pp. 211–244 (p. 242).
