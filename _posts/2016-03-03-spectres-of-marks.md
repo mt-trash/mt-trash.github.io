@@ -4,6 +4,9 @@ title: Spectres of ‘Marks’
 date: 2016-03-03
 ---
 
+{% include image-no-link.html file="/images/gaddis-rapture.jpg" alt="gaddis-rapture.jpg" %}
+'The Coming Rapture' by Charles Anderson. The painting appears on the front of a postcard Gaddis sent to his friend John Aldridge in 1985.
+
 **Communication and Capitalism in William Gaddis’s *J R***
 
 There are allusions to Marx and Marxism scattered throughout *J R*, William Gaddis’s second novel. At the dysfunctional school where much of the narrative takes place, the dedication engraved over the entrance reads ‘from each according to his ability, to each according to his needs’, the famous line from Marx's *Critique of the Gotha Program* (though in Gaddis’s text the motto is written in pseudo Greek lettering, which helps to conceal the reference from both the reader and the school’s administrators).[^1] It is said of one character, Stella Angel, that her surname ‘was changed from Engels, somewhere along the way’, suggesting a possible ancestral link with Marx’s collaborator Friedrich Engels.[^2] A quotation from Lenin (‘Who uses whom?’) appears in the notes for Jack Gibbs’s unfinished book.[^3] Gibbs also mentions Karl Marx in connection with the motto adorning the school (which turns out to have been the handiwork of his friend, an artist called Schepperman), but the only other appearance of Marx’s name in the text of *J R* takes the form of a pun, when a woman using a payphone in a cafeteria answers a call for ‘Mister Marks’.[^4]
