@@ -74,7 +74,7 @@ Aporias, omissions, and indeterminacy inevitably become the sites of dispossessi
 [^11]: *J R*, p. 409.
 [^12]: Marx, p. 455.
 [^13]: *J R*, p. 439.
-[^28]: *J R*, p. 439
+[^28]: *J R*, p. 725.
 [^14]: *J R*, p. 572.
 [^15]: *J R*, p. 276.
 [^16]: *J R*, p. 474.
