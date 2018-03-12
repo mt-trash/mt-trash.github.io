@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spectres of ‘Marks’
-date: 2016-03-03
+date: 2017-03-03
 ---
 
 {% include image-no-link.html file="/images/gaddis-rapture.jpg" alt="gaddis-rapture.jpg" %}
