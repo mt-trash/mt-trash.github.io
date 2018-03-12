@@ -2,7 +2,6 @@
 layout: post
 title: Piecework
 date: 2017-09-12
-preview: To prevent theory from turning into practice, we pay for the luxury of columnists.
 ---
 
 >People want Ulrich to *do* something. But I’m concerned with the *meaning* of the action. Today these are confused with each other. Of course Bolshevism, for example, has to occur; but (a) not through books, (b) books have other tasks.  
