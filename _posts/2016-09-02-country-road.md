@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Country Road
-date: 2015-09-02
+date: 2016-09-02
 ---
 {% include image-no-link.html file="/images/godwin.jpg" alt="godwin.jpg" %}  
 *Fay Godwin: 'My interest in the land in my black and white work has consistently concerned human intervention — the history, tilling, and use of the land — I have never been interested in wilderness areas.'*
