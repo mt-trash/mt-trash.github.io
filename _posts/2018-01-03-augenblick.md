@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Augenblick
-date: 2016-01-01
+date: 2018-01-03
 ---
 
 {% include image-no-link.html file="/images/fukase-wanibe.jpg" alt="fukase-wanibe.jpg" %}  
