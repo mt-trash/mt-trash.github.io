@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hypertext
-date: 2017-02-12
+date: 2018-01-01
 ---
 
 All writing is occasional writing, but recently the occasional side of things has got out of hand. This is a complaint you will have heard before, but it bears repeating, if only because the sliver of time called the present seems to shrink week by week. It is as if every short article that wants to be read by more than a dozen people must now identify, preferably in its first line, the media event which occasioned it. Each sentence must have some bearing on something that happened no more than ten days ago. Never mind that these appeals to the present often read like sublimated expressions of the writer's anxiety (a fear of irrelevance, poverty, forgetfulness, loneliness) — the truly successful essay manages to transform all this fear into good-humoured verbal energy. Today everyone writes frenziedly.
