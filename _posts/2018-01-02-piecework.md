@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piecework
-date: 2017-01-02
+date: 2018-01-02
 ---
 
 >People want Ulrich to *do* something. But I’m concerned with the *meaning* of the action. Today these are confused with each other. Of course Bolshevism, for example, has to occur; but (a) not through books, (b) books have other tasks.  
