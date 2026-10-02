@@ -1,9 +1,11 @@
 name: Wastepaper
 markdown: kramdown
-url: http://wastepaper.website
-baseurl: /
+url: https://wastepaper.website
+baseurl: ""
 paginate: 3
 excerpt_separator: "<!-- more -->"
 permalink: pretty
-gems:
+plugins:
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
